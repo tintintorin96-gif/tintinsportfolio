@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-04",
+  "themeName": "Editorial Minimal Future",
+  "trendSummary": "A restrained editorial theme using soft contrast, warm neutrals, and subtle digital polish.",
+  "background": "#faf8f3",
+  "foreground": "#111111",
+  "accent": "#e85d2a",
+  "muted": "#e9e2d8",
+  "border": "#d8d0c4",
+  "radius": "24px",
+  "shadow": "0 24px 80px rgba(0,0,0,0.08)",
+  "motion": "subtle",
+  "fontMood": "editorial",
+  "visualMood": "warm, precise, contemporary"
+}

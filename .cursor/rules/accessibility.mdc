@@ -1,0 +1,11 @@
+---
+description: Accessibility rules
+alwaysApply: true
+---
+
+All generated themes must:
+- Keep readable contrast.
+- Avoid pure novelty over usability.
+- Avoid flashing or aggressive motion.
+- Respect prefers-reduced-motion.
+- Keep body text highly legible.
