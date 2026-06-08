@@ -1,0 +1,74 @@
+{
+  "year": 2026,
+  "week": "2026-W23",
+  "weekNumber": 23,
+  "dateRange": {
+    "start": "2026-06-01",
+    "end": "2026-06-07"
+  },
+  "run": {
+    "triggeredAt": "2026-06-08T07:02:11.263Z",
+    "note": "Requested runbook, agent briefs, freedom model, and schemas were not present in this repository checkout; outputs were created within the allowed scope using the task instructions, existing AGENTS.md constraints, and live research."
+  },
+  "inputsChecked": {
+    "agents": true,
+    "runbookPresent": false,
+    "agentBriefsPresent": false,
+    "freedomModelPresent": false,
+    "schemasPresent": false
+  },
+  "researchWindow": {
+    "start": "2026-06-01",
+    "end": "2026-06-07"
+  },
+  "sourceTrail": [
+    {
+      "publisher": "Codrops",
+      "title": "The Making of the New Lesse Studio Website: Clarity, Performance, and Intentionality",
+      "date": "2026-06-05",
+      "signal": "Clarity-first creative systems"
+    },
+    {
+      "publisher": "OpenAI",
+      "title": "Codex for every role, tool, and workflow",
+      "date": "2026-06-02",
+      "signal": "AI-native shared surfaces"
+    },
+    {
+      "publisher": "Cursor",
+      "title": "Direct agents with visual prompts in Design Mode",
+      "date": "2026-06",
+      "signal": "Spatial prompting and visual agent context"
+    },
+    {
+      "publisher": "CSS Design Awards",
+      "title": "June 1-5 winners and nominees",
+      "date": "2026-06-05",
+      "signal": "AI-powered interactive storytelling"
+    },
+    {
+      "publisher": "Awwwards",
+      "title": "Where Worlds Take Shape",
+      "date": "2026-05-03",
+      "signal": "Playable portfolio worlds and WebGL storytelling"
+    }
+  ],
+  "outputs": [
+    "obsidian/design-trends/2026-W23.signals.md",
+    "obsidian/design-trends/ai-native-lens.md",
+    "obsidian/design-trends/interaction-lens.md",
+    "obsidian/design-trends/visual-culture-lens.md",
+    "src/generated/creative-direction.json",
+    "src/generated/theme.json",
+    "src/generated/interaction-system.json",
+    "creative-direction/archive/2026-W23.md",
+    "creative-direction/archive/2026-W23.pipeline.json"
+  ],
+  "selfCheck": {
+    "weekYearDateRangeAligned": true,
+    "avoidListsNonEmpty": true,
+    "contentNavigationChanged": false,
+    "wcagContrastChecked": "pending local calculation",
+    "schemasUnavailable": true
+  }
+}
