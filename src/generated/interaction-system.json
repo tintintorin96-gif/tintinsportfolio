@@ -6,7 +6,7 @@
     "start": "2026-06-01",
     "end": "2026-06-07"
   },
-  "generatedAt": "2026-06-08T07:02:11.263Z",
+  "generatedAt": "2026-06-08T07:39:00.000Z",
   "interactionSystemName": "Single-Take Signal Path",
   "concept": "A restrained interaction model where motion behaves like directed attention: one calm hero sequence, clear affordance feedback, and no interaction that makes reading or navigation harder.",
   "principles": [
@@ -25,6 +25,10 @@
     {
       "name": "Every input path works",
       "guidance": "Hover, focus, touch, and keyboard states must all reveal equivalent meaning."
+    },
+    {
+      "name": "One signature, repeated with restraint",
+      "guidance": "Choose a single memorable behavior for the weekly hero and reuse its timing language consistently rather than stacking unrelated effects."
     }
   ],
   "hero": {

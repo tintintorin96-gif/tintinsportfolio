@@ -10,6 +10,7 @@ The useful visual trend is warm technical editorial. Instead of cold futurism, s
 ## Evidence this week
 
 - Recent portfolio trend coverage continues to emphasize bold typography and minimal navigation.
+- Beaucoup's June 1 Codrops profile reinforces brand consistency, detail, and refined execution as the counterweight to immersive novelty.
 - Immersive award references show copper, saffron, and warm highlights working against deep green or near-black grounds.
 - Lesse Studio's public rebuild centers refinement, intentional layout, and less visual labor for the user.
 

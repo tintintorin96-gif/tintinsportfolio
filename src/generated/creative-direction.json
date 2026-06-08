@@ -6,16 +6,22 @@
     "start": "2026-06-01",
     "end": "2026-06-07"
   },
-  "generatedAt": "2026-06-08T07:02:11.263Z",
+  "generatedAt": "2026-06-08T07:39:00.000Z",
   "creativeDirectionName": "Quiet Signal Studio",
   "oneSentenceConcept": "A calm, high-signal portfolio surface where AI-native clarity, warm editorial craft, and restrained cinematic motion meet without disrupting content.",
-  "trendSummary": "The previous seven days favored clarity-first immersive systems: Lesse Studio's performance-led rebuild, Codex Sites and product-design plugins, spatial agent prompting in Cursor Design Mode, and CSSDA's AI-powered Gucci mystery game all point toward interactive experiences that are directed, useful, and collaborative rather than merely spectacular.",
+  "trendSummary": "The previous seven days favored clarity-first immersive systems: Beaucoup's coherent memorable-experience practice, Lesse Studio's performance-led rebuild, Codex Sites and product-design plugins, spatial agent prompting in Cursor Design Mode, and CSSDA's AI-powered Gucci mystery game all point toward interactive experiences that are directed, useful, and collaborative rather than merely spectacular.",
   "signals": [
     {
       "name": "Clarity-first creative systems",
       "strength": "high",
       "evidence": "Lesse Studio's 2026-06-05 Codrops case study moved from atmospheric experimentation toward clearer navigation, inquiry paths, and dependency discipline.",
       "portfolioImplication": "Let the system feel atmospheric, but make reading, scanning, and contacting direct."
+    },
+    {
+      "name": "Memorable systems over isolated effects",
+      "strength": "high",
+      "evidence": "Codrops' 2026-06-01 Beaucoup profile emphasizes coherent storytelling, technology, motion, and visual precision as a way to make experiences memorable.",
+      "portfolioImplication": "Use one repeatable signature motif in the hero and token system instead of unrelated trend flourishes."
     },
     {
       "name": "AI-native shared surfaces",
@@ -104,6 +110,12 @@
       "publisher": "Codrops",
       "date": "2026-06-05",
       "url": "https://tympanus.net/codrops/2026/06/05/the-making-of-the-new-lesse-studio-website-clarity-performance-and-intentionality/"
+    },
+    {
+      "title": "Beaucoup and the Pursuit of Memorable Experiences",
+      "publisher": "Codrops",
+      "date": "2026-06-01",
+      "url": "https://tympanus.net/codrops/2026/06/01/beaucoup-and-the-pursuit-of-memorable-experiences/"
     },
     {
       "title": "Codex for every role, tool, and workflow",
