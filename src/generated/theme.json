@@ -1,15 +1,22 @@
 {
-  "date": "2026-06-04",
-  "themeName": "Editorial Minimal Future",
-  "trendSummary": "A restrained editorial theme using soft contrast, warm neutrals, and subtle digital polish.",
-  "background": "#faf8f3",
-  "foreground": "#111111",
-  "accent": "#e85d2a",
-  "muted": "#e9e2d8",
-  "border": "#d8d0c4",
-  "radius": "24px",
-  "shadow": "0 24px 80px rgba(0,0,0,0.08)",
+  "year": 2026,
+  "week": "2026-W23",
+  "weekNumber": 23,
+  "dateRange": {
+    "start": "2026-06-01",
+    "end": "2026-06-07"
+  },
+  "date": "2026-06-08",
+  "themeName": "Quiet Signal Studio",
+  "trendSummary": "A warm technical editorial theme shaped by clarity-first immersive portfolios, AI-native work surfaces, and restrained cinematic motion.",
+  "background": "#F8F1E7",
+  "foreground": "#11120E",
+  "accent": "#9F4A24",
+  "muted": "#E9DDCB",
+  "border": "#C9B89F",
+  "radius": "28px",
+  "shadow": "0 28px 90px rgba(44, 26, 12, 0.12)",
   "motion": "subtle",
-  "fontMood": "editorial",
-  "visualMood": "warm, precise, contemporary"
+  "fontMood": "editorial technical",
+  "visualMood": "warm archival, cinematic restraint, agentic clarity"
 }

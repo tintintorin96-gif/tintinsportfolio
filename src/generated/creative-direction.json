@@ -1,0 +1,133 @@
+{
+  "year": 2026,
+  "week": "2026-W23",
+  "weekNumber": 23,
+  "dateRange": {
+    "start": "2026-06-01",
+    "end": "2026-06-07"
+  },
+  "generatedAt": "2026-06-08T07:02:11.263Z",
+  "creativeDirectionName": "Quiet Signal Studio",
+  "oneSentenceConcept": "A calm, high-signal portfolio surface where AI-native clarity, warm editorial craft, and restrained cinematic motion meet without disrupting content.",
+  "trendSummary": "The previous seven days favored clarity-first immersive systems: Lesse Studio's performance-led rebuild, Codex Sites and product-design plugins, spatial agent prompting in Cursor Design Mode, and CSSDA's AI-powered Gucci mystery game all point toward interactive experiences that are directed, useful, and collaborative rather than merely spectacular.",
+  "signals": [
+    {
+      "name": "Clarity-first creative systems",
+      "strength": "high",
+      "evidence": "Lesse Studio's 2026-06-05 Codrops case study moved from atmospheric experimentation toward clearer navigation, inquiry paths, and dependency discipline.",
+      "portfolioImplication": "Let the system feel atmospheric, but make reading, scanning, and contacting direct."
+    },
+    {
+      "name": "AI-native shared surfaces",
+      "strength": "high",
+      "evidence": "OpenAI Codex Sites and Cursor Design Mode both move AI work into annotated, interactive, spatial contexts.",
+      "portfolioImplication": "Use visual language of signals, annotations, context layers, and live surfaces instead of robot or chatbot tropes."
+    },
+    {
+      "name": "Purposeful story interaction",
+      "strength": "medium",
+      "evidence": "CSSDA's Gucci - Mystery Unfolds and recent Awwwards playable worlds connect interactivity to narrative progression.",
+      "portfolioImplication": "Use the hero as the experimental canvas; keep portfolio structure and case-study copy stable."
+    },
+    {
+      "name": "Warm technical editorial",
+      "strength": "medium",
+      "evidence": "Portfolio trend coverage and awarded immersive references combine bold typography, minimal navigation, archival neutrals, and copper or saffron accents.",
+      "portfolioImplication": "Prefer high-contrast ink text, parchment surfaces, precise borders, and one grounded accent."
+    }
+  ],
+  "direction": {
+    "mood": "calm, precise, quietly cinematic",
+    "visualLanguage": [
+      "warm archival neutrals",
+      "deep ink foreground",
+      "grounded copper accent",
+      "tactile borders",
+      "soft editorial depth",
+      "subtle signal-line or annotation motifs"
+    ],
+    "experienceLanguage": [
+      "single-take hero reveal",
+      "standard readable content flow",
+      "microinteractions that clarify affordance",
+      "reduced-motion equivalent that preserves hierarchy"
+    ],
+    "contentBoundary": "Do not rewrite case-study copy, navigation, routing, or portfolio data."
+  },
+  "hero": {
+    "conceptName": "Signal Room",
+    "concept": "The hero behaves like a quiet studio control surface: soft parchment light, ink typography, and a slow copper signal trace that suggests agentic context gathering without becoming a dashboard.",
+    "motion": "Subtle, low-amplitude reveal and drift; no flashing, no scroll hijacking, no continuous high-energy loops.",
+    "reducedMotion": "Replace drift with a static layered composition and preserve all text hierarchy.",
+    "safeToExperiment": true
+  },
+  "inheritance": {
+    "preserve": [
+      "portfolio content",
+      "case-study order",
+      "navigation data",
+      "routing",
+      "readable body text"
+    ],
+    "mayInfluence": [
+      "generated design tokens",
+      "hero art direction",
+      "microinteraction recommendations",
+      "weekly design notes"
+    ],
+    "doNotTouch": [
+      "src/data",
+      "obsidian/tintinportfolio",
+      "src/components",
+      "src/app",
+      "routing",
+      "navigation data",
+      "case-study copy"
+    ]
+  },
+  "accessibility": {
+    "contrastTarget": "WCAG AA or better for body text and key interactive text",
+    "motionGuidance": "Respect prefers-reduced-motion and avoid aggressive transitions.",
+    "legibilityGuidance": "Use high-contrast foreground on warm light surfaces; avoid beige-on-beige body copy."
+  },
+  "avoid": [
+    "generic AI glow and chatbot ornament",
+    "decorative particle fields",
+    "scroll hijacking",
+    "flashing or aggressive motion",
+    "low-contrast warm neutrals",
+    "rewriting portfolio content or navigation"
+  ],
+  "sources": [
+    {
+      "title": "The Making of the New Lesse Studio Website: Clarity, Performance, and Intentionality",
+      "publisher": "Codrops",
+      "date": "2026-06-05",
+      "url": "https://tympanus.net/codrops/2026/06/05/the-making-of-the-new-lesse-studio-website-clarity-performance-and-intentionality/"
+    },
+    {
+      "title": "Codex for every role, tool, and workflow",
+      "publisher": "OpenAI",
+      "date": "2026-06-02",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow/"
+    },
+    {
+      "title": "Direct agents with visual prompts in Design Mode",
+      "publisher": "Cursor",
+      "date": "2026-06",
+      "url": "https://cursor.com/blog/design-mode"
+    },
+    {
+      "title": "CSS Design Awards homepage winners, June 1-5",
+      "publisher": "CSS Design Awards",
+      "date": "2026-06-05",
+      "url": "https://www.cssdesignawards.com/"
+    },
+    {
+      "title": "Where Worlds Take Shape",
+      "publisher": "Awwwards",
+      "date": "2026-05-03",
+      "url": "https://www.awwwards.com/sites/where-worlds-take-shape"
+    }
+  ]
+}

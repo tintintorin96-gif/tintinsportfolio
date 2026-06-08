@@ -1,0 +1,89 @@
+{
+  "year": 2026,
+  "week": "2026-W23",
+  "weekNumber": 23,
+  "dateRange": {
+    "start": "2026-06-01",
+    "end": "2026-06-07"
+  },
+  "generatedAt": "2026-06-08T07:02:11.263Z",
+  "interactionSystemName": "Single-Take Signal Path",
+  "concept": "A restrained interaction model where motion behaves like directed attention: one calm hero sequence, clear affordance feedback, and no interaction that makes reading or navigation harder.",
+  "principles": [
+    {
+      "name": "Motion earns its weight",
+      "guidance": "Animate only when it clarifies hierarchy, progress, affordance, or narrative pacing."
+    },
+    {
+      "name": "Hero is the experiment",
+      "guidance": "Keep experimental cinematic behavior isolated to the hero canvas; downstream portfolio sections remain direct and scannable."
+    },
+    {
+      "name": "Reduced motion is a parallel design",
+      "guidance": "When prefers-reduced-motion is active, replace animated drift with static layering and opacity-free hierarchy changes."
+    },
+    {
+      "name": "Every input path works",
+      "guidance": "Hover, focus, touch, and keyboard states must all reveal equivalent meaning."
+    }
+  ],
+  "hero": {
+    "pattern": "single-take reveal",
+    "entry": "Text and surface layers appear in a measured sequence under 700ms total.",
+    "ambient": "Optional slow signal trace or parallax depth under 8px of movement.",
+    "exit": "No forced transition; scrolling remains native.",
+    "reducedMotion": "Static composition with visible hierarchy and no ambient loop."
+  },
+  "microinteractions": [
+    {
+      "target": "primary links and calls to action",
+      "behavior": "Use color, underline, or border contrast changes with a short 120-180ms transition.",
+      "accessibility": "Do not rely on color alone; preserve visible focus outlines."
+    },
+    {
+      "target": "cards and surfaces",
+      "behavior": "Use subtle shadow or border emphasis, not scale jumps.",
+      "accessibility": "Avoid hover-only disclosure of essential content."
+    },
+    {
+      "target": "section reveals",
+      "behavior": "Use small translate and opacity changes only when reduced motion is not requested.",
+      "accessibility": "Content must remain present in source order and readable without animation."
+    }
+  ],
+  "states": {
+    "focus": "High-contrast outline or ring using the accent color against the warm background.",
+    "hover": "Slight accent or border emphasis; no cursor trail.",
+    "active": "Small tonal compression or border darkening.",
+    "disabled": "Muted surface with adequate text contrast for labels when visible."
+  },
+  "performance": {
+    "budget": "Prefer CSS transitions and lightweight canvas/SVG motifs before WebGL.",
+    "avoid": [
+      "large uncompressed 3D assets",
+      "continuous particle systems",
+      "layout-shifting animation properties",
+      "dependencies used for one small transition"
+    ],
+    "preferredTechniques": [
+      "transform and opacity for non-essential animation",
+      "native scroll",
+      "requestAnimationFrame only for measured ambient effects",
+      "static fallback assets"
+    ]
+  },
+  "accessibility": {
+    "wcag": "AA",
+    "prefersReducedMotion": "required",
+    "keyboard": "All interactive affordances must be reachable and visible by keyboard.",
+    "contrast": "Text and interactive labels must pass AA against their surfaces."
+  },
+  "avoid": [
+    "scroll hijacking",
+    "flashing transitions",
+    "rapid looped motion",
+    "hover-only meaning",
+    "audio as required feedback",
+    "visual effects that obscure body text"
+  ]
+}
