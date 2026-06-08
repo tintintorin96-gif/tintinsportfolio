@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "theme:daily": "tsx scripts/generate-daily-theme.ts",
-    "theme:check": "next lint && next build"
+    "theme:check": "npm run lint && npm run build"
   },
   "dependencies": {
     "next": "16.2.7",
