@@ -46,12 +46,27 @@ const schema = {
   },
 };
 
-const response = await client.responses.create({
-  model: "gpt-4.1-mini",
-  input: `
-Create today's portfolio visual theme based on current visual design trends.
+const automationPrompt = `
+You are the Portfolio Theme Agent.
 
-Interpret trends from:
+Generate one daily visual theme based on recent visual design trends.
+
+Only produce values for these theme fields:
+- themeName
+- date
+- trendSummary
+- background
+- foreground
+- accent
+- muted
+- border
+- radius
+- shadow
+- motion
+- fontMood
+- visualMood
+
+Interpret current trends from:
 - product design
 - portfolio design
 - editorial web design
@@ -59,13 +74,19 @@ Interpret trends from:
 - visual identity systems
 
 Rules:
-- Keep it professional.
-- Do not make it gimmicky.
-- Strong accessibility.
-- High text contrast.
-- Suitable for a designer/developer portfolio.
+- Keep the theme professional, not gimmicky.
+- Interpret trends subtly through design tokens.
+- Preserve readable contrast and highly legible body text.
+- Avoid pure novelty over usability.
+- Avoid flashing or aggressive motion.
+- Respect prefers-reduced-motion by keeping motion no stronger than subtle unless clearly justified.
+- Use accessible color contrast suitable for a designer/developer portfolio.
 - Return today's date: ${today}.
-`,
+`;
+
+const response = await client.responses.create({
+  model: "gpt-4.1-mini",
+  input: automationPrompt,
   text: {
     format: {
       type: "json_schema",
