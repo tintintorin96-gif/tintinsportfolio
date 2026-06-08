@@ -1,36 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Living Portfolio — Tintin Torin
 
-## Getting Started
+A Next.js portfolio with stable content and a **weekly AI Creative Direction Engine** that studies emerging experience design signals and reinterprets the hero-led visual system.
 
-First, run the development server:
+## Stack
+
+- Next.js App Router (TypeScript)
+- Tailwind CSS v4 + shadcn/ui
+- OpenAI API for weekly creative direction generation
+- Vercel deployment
+- Obsidian notes for content source-of-truth (`obsidian/tintinportfolio/`)
+
+## Routes
+
+| Path | Description |
+|------|-------------|
+| `/` | Home |
+| `/work` | Project index |
+| `/work/[slug]` | Teaser case study |
+| `/about` | Bio, skills, methods |
+| `/contact` | Email & social |
+| `/lab` | Creative direction lab & archive |
+| `/creative-direction` | Weekly direction & token breakdown |
+
+## Setup
 
 ```bash
+npm install
+cp .env.example .env.local   # add OPENAI_API_KEY (account needs billing/credits; 4 API calls per weekly run)
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Edit portfolio content
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Update typed data files (sourced from Obsidian):
 
-## Learn More
+- `src/data/profile.ts`
+- `src/data/projects.ts`
+- `src/data/experience.ts`
 
-To learn more about Next.js, take a look at the following resources:
+Keep Obsidian notes in sync when you change narrative copy.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Weekly creative direction
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Primary:** Cursor Automation runs weekly per [`creative-direction/agent-runbook.md`](creative-direction/agent-runbook.md) (Monday 06:00 UTC). The agent updates research, generated JSON, and archive — then **opens a PR**. CI runs `creative-direction:check` on the PR before you merge.
 
-## Deploy on Vercel
+**CI:** [`.github/workflows/creative-direction-validate.yml`](.github/workflows/creative-direction-validate.yml) validates direction files on PR/push (no generation, no API key).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Optional local script** (when `OPENAI_API_KEY` has quota):
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run creative-direction:weekly
+npm run creative-direction:check
+```
+
+Allowed output paths:
+
+- `obsidian/design-trends/`
+- `src/generated/creative-direction.json`, `theme.json`, `interaction-system.json`
+- `creative-direction/archive/YYYY-Www.md`
+
+(`theme:check` is a deprecated alias for `creative-direction:check`.)
+
+## Deploy (Vercel)
+
+1. Import the repository in Vercel.
+2. `OPENAI_API_KEY` is optional (local script only; weekly generation uses Cursor Automation).
+3. Build command: `npm run build`
+4. Output: Next.js default
+
+## Agent / Codex instructions
+
+See `AGENTS.md` and `.cursor/rules/` for automation boundaries.
+
+## Project structure
+
+```
+src/
+  app/              Pages
+  components/       UI + sections
+  data/             Portfolio content
+  generated/        creative-direction.json, theme.json, interaction-system.json
+  lib/              Theme, interaction & creative direction utilities
+creative-direction/
+  agent-runbook.md  Cursor Automation prompt + weekly steps
+  agents/           Weekly AI workflow prompts
+  archive/          Weekly archive notes
+obsidian/
+  tintinportfolio/  Portfolio content notes
+  design-trends/    Weekly experience design research (agent-filled lenses)
+scripts/
+  generate-weekly-creative-direction.ts
+```

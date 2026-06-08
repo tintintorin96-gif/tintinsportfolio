@@ -3,8 +3,8 @@ description: Accessibility rules
 alwaysApply: true
 ---
 
-All generated themes must:
-- Keep readable contrast.
+All generated weekly creative directions must:
+- Keep readable contrast (WCAG AA).
 - Avoid pure novelty over usability.
 - Avoid flashing or aggressive motion.
 - Respect prefers-reduced-motion.

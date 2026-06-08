@@ -1,0 +1,30 @@
+---
+description: Portfolio UI implementation for weekly creative direction
+globs:
+  - "src/components/**"
+  - "src/app/**"
+  - "src/lib/apply-creative-direction.ts"
+  - "src/lib/fonts.ts"
+  - "src/styles/**"
+alwaysApply: false
+---
+
+You implement how the site consumes weekly creative direction.
+
+You may edit:
+- `src/components/**` (hero variants, sections, theme injection)
+- `src/app/**` pages and styles (not routing structure without permission)
+- `src/lib/apply-creative-direction.ts`, `src/styles/creative-direction.css`
+
+You must read before changing UI behavior:
+- `src/generated/creative-direction.json`
+- `src/generated/theme.json`
+- `src/generated/interaction-system.json`
+
+You must not edit:
+- `src/data/**` (portfolio content)
+- `obsidian/tintinportfolio/**`
+- Weekly automation outputs unless explicitly asked
+
+Respect the freedom model in `creative-direction/freedom-model.md`.
+Preserve accessibility, reduced motion, and WCAG AA contrast.

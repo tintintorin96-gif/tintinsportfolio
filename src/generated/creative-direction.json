@@ -1,0 +1,34 @@
+{
+  "week": 23,
+  "year": 2026,
+  "dateRange": "2026-06-02 — 2026-06-08",
+  "creativeDirectionName": "Minimal Bold Signal",
+  "oneSentenceConcept": "Stark typographic hierarchy and one confident accent reinterpret the hero as a signal, not decoration.",
+  "heroConcept": "Overscaled headline, tight tracking, accent rule beneath the greeting — experimental only in the hero band.",
+  "experienceMood": "stark, direct, high-contrast",
+  "emergingSignals": [
+    "High-contrast neutrals with single accent discipline",
+    "Tight geometric radii and hard borders",
+    "Typographic weight as primary visual texture",
+    "Subtle motion limited to interactive affordances"
+  ],
+  "visualLanguage": "Direct, high-contrast, minimal surface noise — clarity over atmosphere.",
+  "interactionLanguage": "Restrained hover on links and CTAs; no cursor gimmicks; navigation stays predictable.",
+  "motionLanguage": "Subtle transitions on links and buttons; no ambient loops.",
+  "storytellingApproach": "Lead with a single hero statement; supporting sections reveal context in calm sequence.",
+  "creativeTechnologyIdeas": [
+    "CSS-only accent rule animation on hero load",
+    "Token-driven motion intensity via interaction-system.json"
+  ],
+  "typographyDirection": "Bold sans display for hero; minimal body rhythm elsewhere.",
+  "compositionDirection": "Hero-led vertical stack; supporting sections use muted bands and bordered cards.",
+  "colorDirection": "White field, near-black type, one saturated accent for emphasis only.",
+  "textureDirection": "Flat fills and border weight — no grain or glass unless contrast-safe.",
+  "supportingPageTreatment": "Calmer cards and navigation; tokens echo hero accent sparingly.",
+  "avoid": [
+    "Editorial serif display",
+    "Warm cream editorial palettes",
+    "Decorative gradients",
+    "Short-lived gimmick effects"
+  ]
+}

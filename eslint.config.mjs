@@ -12,6 +12,7 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    "public/projects/okq8_b2b/okq8_b2bhero_files/**",
   ]),
 ]);
 

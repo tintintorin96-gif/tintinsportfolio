@@ -1,0 +1,34 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WeeklyInteractionSystem",
+  "type": "object",
+  "required": [
+    "week",
+    "year",
+    "cursorTreatment",
+    "scrollBehavior",
+    "hoverBehavior",
+    "pageTransition",
+    "motionIntensity",
+    "navigationBehavior",
+    "storytellingStyle",
+    "heroInteraction",
+    "reducedMotionFallback"
+  ],
+  "properties": {
+    "week": { "type": "integer" },
+    "year": { "type": "integer" },
+    "cursorTreatment": { "enum": ["default", "magnetic", "highlight"] },
+    "scrollBehavior": { "enum": ["standard", "cinematic", "snap-sections"] },
+    "hoverBehavior": { "enum": ["color-shift", "depth-reveal", "scale-lift"] },
+    "pageTransition": { "enum": ["none", "crossfade", "slide"] },
+    "motionIntensity": { "enum": ["none", "subtle", "expressive"] },
+    "navigationBehavior": { "enum": ["stable", "minimal-reveal"] },
+    "storytellingStyle": {
+      "enum": ["linear-reveal", "chapter-scroll", "panel-sequence"]
+    },
+    "heroInteraction": { "type": "string" },
+    "reducedMotionFallback": { "type": "string" }
+  },
+  "additionalProperties": false
+}

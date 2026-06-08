@@ -1,0 +1,13 @@
+{
+  "week": 23,
+  "year": 2026,
+  "cursorTreatment": "default",
+  "scrollBehavior": "standard",
+  "hoverBehavior": "color-shift",
+  "pageTransition": "none",
+  "motionIntensity": "subtle",
+  "navigationBehavior": "stable",
+  "storytellingStyle": "linear-reveal",
+  "heroInteraction": "accent-rule reveal on load",
+  "reducedMotionFallback": "instant state changes, no ambient motion"
+}

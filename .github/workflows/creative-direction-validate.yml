@@ -1,0 +1,37 @@
+name: Creative Direction Validate
+
+# Validates weekly direction outputs after agent or manual edits.
+# Generation is handled by Cursor Automation — see creative-direction/agent-runbook.md
+
+on:
+  pull_request:
+    paths:
+      - "src/generated/creative-direction.json"
+      - "src/generated/theme.json"
+      - "src/generated/interaction-system.json"
+      - "creative-direction/archive/**"
+      - "obsidian/design-trends/**"
+  push:
+    branches:
+      - main
+    paths:
+      - "src/generated/creative-direction.json"
+      - "src/generated/theme.json"
+      - "src/generated/interaction-system.json"
+      - "creative-direction/archive/**"
+      - "obsidian/design-trends/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - run: npm run creative-direction:check

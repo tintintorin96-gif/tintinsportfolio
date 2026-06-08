@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "SignalScoutWeekly",
+  "type": "object",
+  "required": ["emergingSignals", "recurringMovements", "shortLivedNovelty"],
+  "properties": {
+    "emergingSignals": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "signal",
+          "sourceCategory",
+          "sourceUrl",
+          "signalType",
+          "shippedVsConcept",
+          "recurrence",
+          "whyItMatters",
+          "characteristics",
+          "portfolioFit",
+          "avoid"
+        ],
+        "properties": {
+          "signal": { "type": "string" },
+          "sourceCategory": { "type": "string" },
+          "sourceUrl": { "type": "string" },
+          "signalType": { "type": "string" },
+          "shippedVsConcept": { "enum": ["shipped", "concept", "mixed"] },
+          "recurrence": { "enum": ["emerging", "recurring", "short-lived"] },
+          "whyItMatters": { "type": "string" },
+          "characteristics": { "type": "string" },
+          "portfolioFit": { "type": "string" },
+          "avoid": { "type": "boolean" }
+        }
+      }
+    },
+    "recurringMovements": { "type": "array", "items": { "type": "string" } },
+    "shortLivedNovelty": { "type": "array", "items": { "type": "string" } }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,22 @@
+---
+description: Living portfolio implementation rules
+alwaysApply: true
+---
+
+Build this portfolio as a premium, data-driven personal site.
+
+Use shadcn/ui as the component foundation.
+
+Do not hardcode portfolio content into components when it belongs in `src/data/`.
+
+Source narrative copy from `obsidian/tintinportfolio/` when updating content.
+
+Weekly experience direction is controlled through `src/generated/creative-direction.json`, `src/generated/theme.json`, `src/generated/interaction-system.json`, and CSS variables.
+
+Weekly generation runs via Cursor Automation (`creative-direction/agent-runbook.md`). CI validates only. Never let the weekly agent edit `src/components/**` or content files.
+
+The hero section is the main experimental canvas. Navigation and content must remain stable.
+
+Case studies are teaser-only on the public site.
+
+No manual dark mode toggle — weekly creative direction tokens only.

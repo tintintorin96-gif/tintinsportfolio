@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "WeeklyTheme",
+  "type": "object",
+  "required": [
+    "week",
+    "year",
+    "themeName",
+    "heroVariant",
+    "background",
+    "foreground",
+    "accent",
+    "muted",
+    "border",
+    "radius",
+    "shadow",
+    "spacing",
+    "typography",
+    "motion",
+    "hero",
+    "pageTreatment"
+  ],
+  "properties": {
+    "week": { "type": "integer" },
+    "year": { "type": "integer" },
+    "themeName": { "type": "string" },
+    "heroVariant": {
+      "enum": ["hierarchy-led", "cinematic", "brutalist", "luxury-tech", "experimental"]
+    },
+    "background": { "type": "string" },
+    "foreground": { "type": "string" },
+    "accent": { "type": "string" },
+    "muted": { "type": "string" },
+    "border": { "type": "string" },
+    "radius": { "type": "string" },
+    "shadow": { "type": "string" },
+    "spacing": {
+      "type": "object",
+      "required": ["section", "grid", "heroPadding"],
+      "properties": {
+        "section": { "enum": ["airy", "balanced", "tight"] },
+        "grid": { "enum": ["comfortable", "dense"] },
+        "heroPadding": { "enum": ["generous", "standard", "compact"] }
+      }
+    },
+    "typography": {
+      "type": "object",
+      "required": ["headingMood", "bodyMood", "scale"],
+      "properties": {
+        "headingMood": { "enum": ["minimal", "bold", "experimental"] },
+        "bodyMood": { "enum": ["minimal", "bold", "experimental"] },
+        "scale": { "type": "string" }
+      }
+    },
+    "motion": {
+      "type": "object",
+      "required": ["intensity", "style"],
+      "properties": {
+        "intensity": { "enum": ["none", "subtle", "expressive"] },
+        "style": { "type": "string" }
+      }
+    },
+    "hero": {
+      "type": "object",
+      "required": ["layout", "visualEffect", "interaction"],
+      "properties": {
+        "layout": {
+          "enum": ["stacked-type", "split-grid", "asymmetric", "cinematic-band"]
+        },
+        "visualEffect": { "type": "string" },
+        "interaction": { "type": "string" }
+      }
+    },
+    "pageTreatment": {
+      "type": "object",
+      "required": ["cards", "sections", "navigation"],
+      "properties": {
+        "cards": { "enum": ["bordered", "elevated", "glass-safe", "flat"] },
+        "sections": { "enum": ["muted-bands", "full-bleed", "grid-rhythm"] },
+        "navigation": {
+          "enum": ["minimal-border", "accent-underline", "stable-flat"]
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

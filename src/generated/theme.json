@@ -1,15 +1,37 @@
 {
-  "date": "2026-06-04",
-  "themeName": "Editorial Minimal Future",
-  "trendSummary": "A restrained editorial theme using soft contrast, warm neutrals, and subtle digital polish.",
-  "background": "#faf8f3",
-  "foreground": "#111111",
-  "accent": "#e85d2a",
-  "muted": "#e9e2d8",
-  "border": "#d8d0c4",
-  "radius": "24px",
-  "shadow": "0 24px 80px rgba(0,0,0,0.08)",
-  "motion": "subtle",
-  "fontMood": "editorial",
-  "visualMood": "warm, precise, contemporary"
+  "week": 23,
+  "year": 2026,
+  "themeName": "Minimal Bold Signal",
+  "heroVariant": "brutalist",
+  "background": "#ffffff",
+  "foreground": "#0a0a0a",
+  "accent": "#ff3b00",
+  "muted": "#f0f0f0",
+  "border": "#0a0a0a",
+  "radius": "10px",
+  "shadow": "0 12px 40px rgba(0, 0, 0, 0.12)",
+  "spacing": {
+    "section": "balanced",
+    "grid": "comfortable",
+    "heroPadding": "standard"
+  },
+  "typography": {
+    "headingMood": "bold",
+    "bodyMood": "minimal",
+    "scale": "tight display, comfortable body"
+  },
+  "motion": {
+    "intensity": "subtle",
+    "style": "ease transitions on links and buttons"
+  },
+  "hero": {
+    "layout": "stacked-type",
+    "visualEffect": "high-contrast typographic weight",
+    "interaction": "subtle hover on primary CTAs"
+  },
+  "pageTreatment": {
+    "cards": "bordered",
+    "sections": "muted-bands",
+    "navigation": "minimal-border"
+  }
 }

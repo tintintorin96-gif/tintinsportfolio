@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "VisualCultureAnalystWeekly",
+  "type": "object",
+  "required": [
+    "dominantMovement",
+    "supportingPatterns",
+    "emotionalTone",
+    "interactionStyle",
+    "portfolioRelevance",
+    "riskLevel",
+    "favorOverNovelty"
+  ],
+  "properties": {
+    "dominantMovement": { "type": "string" },
+    "supportingPatterns": { "type": "array", "items": { "type": "string" } },
+    "emotionalTone": { "type": "string" },
+    "interactionStyle": { "type": "string" },
+    "portfolioRelevance": { "type": "string" },
+    "riskLevel": { "type": "string" },
+    "favorOverNovelty": { "type": "string" }
+  },
+  "additionalProperties": false
+}
