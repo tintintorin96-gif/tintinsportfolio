@@ -1,34 +1,37 @@
 {
-  "week": 23,
+  "week": 25,
   "year": 2026,
-  "dateRange": "2026-06-02 — 2026-06-08",
-  "creativeDirectionName": "Minimal Bold Signal",
-  "oneSentenceConcept": "Stark typographic hierarchy and one confident accent reinterpret the hero as a signal, not decoration.",
-  "heroConcept": "Overscaled headline, tight tracking, accent rule beneath the greeting — experimental only in the hero band.",
-  "experienceMood": "stark, direct, high-contrast",
+  "dateRange": "2026-06-15 — 2026-06-21",
+  "creativeDirectionName": "Semantic Kinetic Hierarchy",
+  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
+  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
+  "experienceMood": "deliberate, physical, editorial-confident",
   "emergingSignals": [
-    "High-contrast neutrals with single accent discipline",
-    "Tight geometric radii and hard borders",
-    "Typographic weight as primary visual texture",
-    "Subtle motion limited to interactive affordances"
+    "Semantic motion as usability infrastructure, not decoration",
+    "Scroll-driven typographic hierarchy without WebGL dependency",
+    "Spring physics and restrained single-concept award experiences",
+    "AI-native streaming motion patterns for process state",
+    "Intentional imperfection as human credibility signal"
   ],
-  "visualLanguage": "Direct, high-contrast, minimal surface noise — clarity over atmosphere.",
-  "interactionLanguage": "Restrained hover on links and CTAs; no cursor gimmicks; navigation stays predictable.",
-  "motionLanguage": "Subtle transitions on links and buttons; no ambient loops.",
-  "storytellingApproach": "Lead with a single hero statement; supporting sections reveal context in calm sequence.",
+  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
+  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
+  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
+  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
   "creativeTechnologyIdeas": [
-    "CSS-only accent rule animation on hero load",
+    "CSS scroll-driven animation for hero type weight shift",
+    "View Transitions API for accent rule extension on load",
     "Token-driven motion intensity via interaction-system.json"
   ],
-  "typographyDirection": "Bold sans display for hero; minimal body rhythm elsewhere.",
-  "compositionDirection": "Hero-led vertical stack; supporting sections use muted bands and bordered cards.",
-  "colorDirection": "White field, near-black type, one saturated accent for emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain or glass unless contrast-safe.",
-  "supportingPageTreatment": "Calmer cards and navigation; tokens echo hero accent sparingly.",
+  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
+  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
+  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
+  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
+  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
   "avoid": [
-    "Editorial serif display",
-    "Warm cream editorial palettes",
-    "Decorative gradients",
-    "Short-lived gimmick effects"
+    "Full WebGL immersive hero environments",
+    "Generic particle backgrounds and cursor gimmicks",
+    "Glassmorphism stacks without contrast intent",
+    "Snap-sections paired with expressive motion",
+    "Decorative gradient meshes without narrative purpose"
   ]
 }

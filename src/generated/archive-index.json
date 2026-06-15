@@ -1,0 +1,20 @@
+{
+  "entries": [
+    {
+      "weekLabel": "2026-W25",
+      "week": 25,
+      "year": 2026,
+      "title": "Semantic Kinetic Hierarchy",
+      "summary": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
+      "dateRange": "2026-06-15 — 2026-06-21"
+    },
+    {
+      "weekLabel": "2026-W23",
+      "week": 23,
+      "year": 2026,
+      "title": "Minimal Bold Signal",
+      "summary": "Stark typographic hierarchy and one confident accent reinterpret the hero as a signal, not decoration.",
+      "dateRange": "2026-06-02 — 2026-06-08"
+    }
+  ]
+}
