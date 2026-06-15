@@ -28,3 +28,9 @@ Prioritize live production sites over case-study stills. Note what is technicall
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W24
+
+- Award-gallery signals continue to favor scroll-driven spatial narratives where camera movement, layered depth, and staged reveals create a directed journey rather than a static landing page.
+- The strongest portfolio-safe takeaway is restraint: one authored spatial moment in the hero, stable navigation, and readable hierarchy throughout.
+- Avoid copying 3D scene structures directly or treating generic particle fields as evidence of a recurring movement.

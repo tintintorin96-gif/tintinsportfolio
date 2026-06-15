@@ -29,3 +29,9 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W24
+
+- AI-native interface discourse is moving beyond chat toward agentic surfaces with typed outputs, visible traces, confidence states, approvals, and deterministic fallbacks.
+- The durable visual idea is governance: users should see what the system is doing and where they can intervene.
+- Portfolio fit: borrow trace rails, inspection states, and signal language as visual metaphors only; do not add new AI workflow UI.

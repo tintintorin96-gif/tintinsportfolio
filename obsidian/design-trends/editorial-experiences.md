@@ -29,3 +29,9 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W24
+
+- Storytelling patterns are becoming cinematic rather than magazine-like: hero as prologue, scroll as pacing device, and supporting sections as controlled chapters.
+- Typographic hierarchy still carries the narrative; motion should reveal sequence, not compete with the information.
+- Avoid serif editorial mimicry for this owner baseline; use bold sans hierarchy and spatial rhythm instead.

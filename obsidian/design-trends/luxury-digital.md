@@ -29,3 +29,9 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W24
+
+- Luxury-tech signals are consolidating around dark fields, copper/gold accents, careful sans or custom display type, and very few high-fidelity spatial moments.
+- Restraint is the premium cue: confident pacing, high contrast, and material hints beat maximal 3D spectacle.
+- Portfolio fit: dark observatory mood, copper signal accent, crisp cards, and stable flat navigation.
