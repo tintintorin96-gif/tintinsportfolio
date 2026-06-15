@@ -29,3 +29,9 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W24
+
+- Recent Codrops and gallery examples show creative developers building spatial portfolios from lightweight planes, textures, shaders, and scroll-synced camera paths rather than relying on heavy model libraries.
+- The deeper movement is authored exploration: visitors move through a designed space while hierarchy and orientation remain explicit.
+- For this portfolio, borrow the sense of a signal room or observatory in the hero, then return to stable cards and linear sections.

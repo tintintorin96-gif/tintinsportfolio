@@ -1,37 +1,37 @@
 {
-  "week": 23,
+  "week": 24,
   "year": 2026,
-  "themeName": "Minimal Bold Signal",
-  "heroVariant": "brutalist",
-  "background": "#ffffff",
-  "foreground": "#0a0a0a",
-  "accent": "#ff3b00",
-  "muted": "#f0f0f0",
-  "border": "#0a0a0a",
-  "radius": "10px",
-  "shadow": "0 12px 40px rgba(0, 0, 0, 0.12)",
+  "themeName": "Cinematic Signal Observatory",
+  "heroVariant": "luxury-tech",
+  "background": "#05070b",
+  "foreground": "#f8f1e3",
+  "accent": "#f6b44b",
+  "muted": "#111827",
+  "border": "#334155",
+  "radius": "18px",
+  "shadow": "0 24px 80px rgba(246, 180, 75, 0.18)",
   "spacing": {
-    "section": "balanced",
+    "section": "airy",
     "grid": "comfortable",
-    "heroPadding": "standard"
+    "heroPadding": "generous"
   },
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "tight display, comfortable body"
+    "scale": "oversized cinematic display with compact system labels"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "ease transitions on links and buttons"
+    "style": "slow cinematic reveals, short crossfades, and depth-state hovers"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "high-contrast typographic weight",
-    "interaction": "subtle hover on primary CTAs"
+    "layout": "cinematic-band",
+    "visualEffect": "dark coordinate field with copper signal horizon",
+    "interaction": "scroll reveals observatory depth while hover exposes trace highlights"
   },
   "pageTreatment": {
-    "cards": "bordered",
-    "sections": "muted-bands",
-    "navigation": "minimal-border"
+    "cards": "elevated",
+    "sections": "grid-rhythm",
+    "navigation": "accent-underline"
   }
 }

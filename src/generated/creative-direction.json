@@ -1,34 +1,37 @@
 {
-  "week": 23,
+  "week": 24,
   "year": 2026,
-  "dateRange": "2026-06-02 — 2026-06-08",
-  "creativeDirectionName": "Minimal Bold Signal",
-  "oneSentenceConcept": "Stark typographic hierarchy and one confident accent reinterpret the hero as a signal, not decoration.",
-  "heroConcept": "Overscaled headline, tight tracking, accent rule beneath the greeting — experimental only in the hero band.",
-  "experienceMood": "stark, direct, high-contrast",
+  "dateRange": "2026-06-09 — 2026-06-15",
+  "creativeDirectionName": "Cinematic Signal Observatory",
+  "oneSentenceConcept": "A dark spatial hero frames the portfolio as an inspectable signal room, where bold type, copper coordinates, and restrained scroll depth guide attention without changing content.",
+  "heroConcept": "The hero behaves like a low-lit observatory: oversized sans type anchors the scene while a subtle coordinate grid, amber scan line, and depth-reveal hover states suggest live systems under human direction.",
+  "experienceMood": "cinematic, precise, governed, quietly immersive",
   "emergingSignals": [
-    "High-contrast neutrals with single accent discipline",
-    "Tight geometric radii and hard borders",
-    "Typographic weight as primary visual texture",
-    "Subtle motion limited to interactive affordances"
+    "Scroll as camera-state controller for chaptered spatial stories",
+    "Reusable GSAP and Webflow motion systems replacing one-off animation stunts",
+    "AI-native interfaces exposing traces, confidence, and override states",
+    "Two-dimensional hierarchy balanced with restrained WebGL-inspired depth",
+    "Luxury-tech restraint through dark fields and copper signal accents"
   ],
-  "visualLanguage": "Direct, high-contrast, minimal surface noise — clarity over atmosphere.",
-  "interactionLanguage": "Restrained hover on links and CTAs; no cursor gimmicks; navigation stays predictable.",
-  "motionLanguage": "Subtle transitions on links and buttons; no ambient loops.",
-  "storytellingApproach": "Lead with a single hero statement; supporting sections reveal context in calm sequence.",
+  "visualLanguage": "Dark luxury-tech field, warm ivory type, copper signal accents, and faint coordinate structure create depth while preserving minimal bold hierarchy.",
+  "interactionLanguage": "Guided and inspectable: scroll reveals spatial chapters, hover exposes a controlled depth state, and navigation remains stable with only a restrained accent response.",
+  "motionLanguage": "Cinematic but measured, using slow reveal beats, short crossfades, and static fallbacks instead of ambient loops or aggressive parallax.",
+  "storytellingApproach": "Treat the hero as a prologue to a governed signal system; supporting sections inherit the chapter rhythm through calm bands, crisp cards, and clear sequence.",
   "creativeTechnologyIdeas": [
-    "CSS-only accent rule animation on hero load",
-    "Token-driven motion intensity via interaction-system.json"
+    "CSS gradient coordinate plane that evokes WebGL depth without requiring a heavy scene",
+    "Tokenized scroll-state choreography inspired by GSAP timelines with prefers-reduced-motion fallbacks",
+    "Decorative trace rail language borrowed from agentic audit interfaces to imply inspectable systems"
   ],
-  "typographyDirection": "Bold sans display for hero; minimal body rhythm elsewhere.",
-  "compositionDirection": "Hero-led vertical stack; supporting sections use muted bands and bordered cards.",
-  "colorDirection": "White field, near-black type, one saturated accent for emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain or glass unless contrast-safe.",
-  "supportingPageTreatment": "Calmer cards and navigation; tokens echo hero accent sparingly.",
+  "typographyDirection": "Bold sans display with tight, cinematic scale in the hero; minimal body rhythm and compact metadata labels elsewhere.",
+  "compositionDirection": "Cinematic-band hero with asymmetrical type mass, a subtle horizon layer, and supporting sections organized as steady signal chapters.",
+  "colorDirection": "Near-black blue field, warm ivory text, subdued slate surfaces, and one copper amber accent used for orientation and emphasis.",
+  "textureDirection": "Fine coordinate lines, soft atmospheric shadow, and low-opacity signal grain; no heavy glass, noisy particles, or model-dependent spectacle.",
+  "supportingPageTreatment": "Sections use grid rhythm and bordered/elevated cards with faint copper traces so the rest of the page supports the hero without becoming another scene.",
   "avoid": [
-    "Editorial serif display",
-    "Warm cream editorial palettes",
-    "Decorative gradients",
-    "Short-lived gimmick effects"
+    "Full-site game world metaphors",
+    "Generic particle atmospheres",
+    "Open-ended AI chat motifs",
+    "Serif editorial magazine styling",
+    "Motion that hides text or disorients scrolling"
   ]
 }

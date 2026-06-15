@@ -1,13 +1,13 @@
 {
-  "week": 23,
+  "week": 24,
   "year": 2026,
-  "cursorTreatment": "default",
-  "scrollBehavior": "standard",
-  "hoverBehavior": "color-shift",
-  "pageTransition": "none",
+  "cursorTreatment": "highlight",
+  "scrollBehavior": "cinematic",
+  "hoverBehavior": "depth-reveal",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
-  "storytellingStyle": "linear-reveal",
-  "heroInteraction": "accent-rule reveal on load",
-  "reducedMotionFallback": "instant state changes, no ambient motion"
+  "storytellingStyle": "chapter-scroll",
+  "heroInteraction": "scroll-tied coordinate depth with copper trace highlights on interactive elements",
+  "reducedMotionFallback": "static coordinate field, instant chapter states, and underline-only hover feedback"
 }
