@@ -1,37 +1,37 @@
 {
-  "week": 25,
+  "week": 26,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
-  "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "themeName": "Inspectable Narrative Canvas",
+  "heroVariant": "luxury-tech",
+  "background": "#070B10",
+  "foreground": "#F7F2E8",
+  "accent": "#6DEAC8",
+  "muted": "#101820",
+  "border": "#263543",
+  "radius": "10px",
+  "shadow": "0 24px 70px rgba(3, 8, 14, 0.34)",
   "spacing": {
     "section": "airy",
     "grid": "comfortable",
     "heroPadding": "generous"
   },
   "typography": {
-    "headingMood": "bold",
+    "headingMood": "experimental",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "split-grid hero display with compact tracking, warm minimal body rhythm"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "staged rail draw, marker resolve, and gentle panel depth reveal"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "layout": "split-grid",
+    "visualEffect": "inspectable canvas with luminous state rails and elevated evidence panels",
+    "interaction": "scroll-scrubbed chapter line with depth-reveal hover states"
   },
   "pageTreatment": {
-    "cards": "bordered",
-    "sections": "muted-bands",
-    "navigation": "minimal-border"
+    "cards": "elevated",
+    "sections": "grid-rhythm",
+    "navigation": "accent-underline"
   }
 }

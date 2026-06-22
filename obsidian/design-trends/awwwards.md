@@ -28,3 +28,10 @@ Prioritize live production sites over case-study stills. Note what is technicall
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W26
+
+- Elva (SOTD Jun 15) frames a voice-first AI product through a restrained black/white system, a glass persona, and 30+ behavioral states; the useful signal is stateful AI feedback, not mascot novelty.
+- Fauna Robotics (SOTD Jun 16) turns robotics into a trust-building companion narrative with visible navigation/button moments and a soft accessible palette.
+- Indigo Laboratory (SOTD Jun 18) uses chapter intros, sound identity, and collection reveals to make a single-page luxury experience feel sequenced.
+- Portfolio implication: use the hero as an inspectable state canvas, then let supporting sections inherit chapter rhythm without changing content.

@@ -1,37 +1,40 @@
 {
-  "week": 25,
+  "week": 26,
   "year": 2026,
-  "dateRange": "2026-06-15 — 2026-06-21",
-  "creativeDirectionName": "Semantic Kinetic Hierarchy",
-  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
-  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
-  "experienceMood": "deliberate, physical, editorial-confident",
+  "dateRange": "2026-06-22 — 2026-06-28",
+  "creativeDirectionName": "Inspectable Narrative Canvas",
+  "oneSentenceConcept": "The hero becomes a live, inspectable canvas where state rails, chapter markers, and precise motion reveal creative intelligence without changing content.",
+  "heroConcept": "A near-black luxury-tech field with existing hero content assembled across a split grid, luminous state rails, evidence chips, and one scroll-scrubbed chapter line. The effect suggests an AI-native working surface while keeping navigation and portfolio structure stable.",
+  "experienceMood": "intelligent, composed, observant, precise, quietly alive",
   "emergingSignals": [
-    "Semantic motion as usability infrastructure, not decoration",
-    "Scroll-driven typographic hierarchy without WebGL dependency",
-    "Spring physics and restrained single-concept award experiences",
-    "AI-native streaming motion patterns for process state",
-    "Intentional imperfection as human credibility signal"
+    "Canvas-native AI interfaces with visible edit state",
+    "Agentic product personalities encoded as controlled behavioral states",
+    "Robotics and AI storytelling centered on trust and coexistence",
+    "Sensory chapter systems for premium single-page narratives",
+    "Authorable motion timelines replacing custom-code spectacle",
+    "Editorial fluidity held by typographic grid discipline"
   ],
-  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
-  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
-  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
-  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
+  "visualLanguage": "Luxury-tech restraint: deep spatial field, warm high-contrast type, thin inspection rails, and a mint signal accent used only for state, progress, and interactive evidence.",
+  "interactionLanguage": "Hover reveals depth and system intent; scroll behaves like a calm canvas inspection rather than a forced journey; navigation remains stable with only subtle accent confirmation.",
+  "motionLanguage": "Subtle staged assembly in the hero: rails draw in, markers resolve, and hierarchy settles. Supporting sections use light reveal pacing with no continuous ambient motion.",
+  "storytellingApproach": "Hero-as-working-surface prologue; supporting sections become readable chapters that inherit rails, panels, and evidence rhythm while preserving existing content order.",
   "creativeTechnologyIdeas": [
-    "CSS scroll-driven animation for hero type weight shift",
-    "View Transitions API for accent rule extension on load",
-    "Token-driven motion intensity via interaction-system.json"
+    "Token-driven state rails using CSS custom properties",
+    "Scroll-linked chapter progress limited to the hero band",
+    "Declarative AI-interface cues expressed as native panels and markers",
+    "Reduced-motion fallback that renders the completed canvas immediately"
   ],
-  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
-  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
-  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
-  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
+  "typographyDirection": "Experimental but legible sans display with compact tracking in the hero; warm minimal body type and stable measure elsewhere.",
+  "compositionDirection": "Split-grid hero with one dominant content column and a secondary system-observation column; supporting sections use grid rhythm and elevated panels.",
+  "colorDirection": "Near-black foundation, warm parchment foreground, desaturated blue-gray surfaces, and a luminous mint accent reserved for state and interaction.",
+  "textureDirection": "Fine-line interface rails, subdued panel elevation, and controlled surface depth; no grain, no decorative particles, and no heavy glass stacks.",
+  "supportingPageTreatment": "Elevated cards and grid-rhythm sections inherit the hero's inspectable system language at reduced intensity; work grid remains clear and teaser-only.",
   "avoid": [
-    "Full WebGL immersive hero environments",
-    "Generic particle backgrounds and cursor gimmicks",
-    "Glassmorphism stacks without contrast intent",
-    "Snap-sections paired with expressive motion",
-    "Decorative gradient meshes without narrative purpose"
+    "Generic AI chat widgets or assistant mascots",
+    "Decorative glass blobs without visible state logic",
+    "Autoplay sound or sensory effects that need user control",
+    "Site-wide WebGL depth or particle environments",
+    "Randomized generated layouts that obscure hierarchy",
+    "Navigation experiments that compete with content"
   ]
 }

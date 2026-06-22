@@ -29,3 +29,9 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W26
+
+- Creative portfolios are increasingly judged by whether interaction reveals how the maker thinks: state markers, timelines, cursor feedback, and chaptered evidence.
+- Recent portfolio and studio signals point toward "craft as argument" rather than full-page spectacle.
+- Portfolio implication: keep the hero as the high-freedom canvas, but make the experiment legible through inspectable layers and calm supporting sections.
