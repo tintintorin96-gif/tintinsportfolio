@@ -29,3 +29,9 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W26
+
+- Indigo Laboratory and House of Honey both point to editorial systems that are fluid, chaptered, and sensory without abandoning typographic structure.
+- The deeper movement is hero-as-prologue plus supporting sections as readable acts.
+- Portfolio implication: let scroll reveal system layers and chapter rhythm, but keep case-study teasers and IA unchanged.

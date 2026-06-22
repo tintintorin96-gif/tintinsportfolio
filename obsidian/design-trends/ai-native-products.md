@@ -29,3 +29,10 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W26
+
+- Framer Agents emphasizes AI working directly on the live design canvas, making many small edits that remain native, inspectable, and manually adjustable.
+- A2UI-style declarative UI protocols reinforce the same direction: agent output should stream as structured native interface state, not arbitrary code or a detached transcript.
+- Cursor Design Mode adds another signal: visual annotation and element context reduce the distance between what the user sees and what the agent edits.
+- Portfolio implication: translate AI-native language into visible state, authored sequence, and inspectable hero layers; do not add a generic chat widget.

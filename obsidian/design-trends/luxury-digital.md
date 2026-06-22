@@ -29,3 +29,9 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W26
+
+- Luxury-tech language is becoming more inspectable: premium restraint, visible state, and chaptered evidence are replacing opaque atmosphere.
+- Two-color systems with one luminous accent remain recurring, but the accent now often signals state, progress, or interaction rather than decoration.
+- Portfolio implication: near-black, warm foreground, and a precise mint/cyan signal accent can support a premium canvas without compromising contrast.
