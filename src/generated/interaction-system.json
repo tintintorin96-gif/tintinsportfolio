@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 28,
   "year": 2026,
-  "cursorTreatment": "default",
+  "cursorTreatment": "highlight",
   "scrollBehavior": "cinematic",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
   "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "heroInteraction": "scroll advances luminous state rails and reveals artifact-like hero panels; hover adds contained depth cues",
+  "reducedMotionFallback": "static state rails and panels with immediate visible focus and hover states; no shader movement or scroll-scrubbed animation"
 }

@@ -1,0 +1,99 @@
+{
+  "week": 28,
+  "year": 2026,
+  "creativeWeekDateRange": "2026-07-06 — 2026-07-12",
+  "signalWindow": "2026-06-29 — 2026-07-05",
+  "signalScout": {
+    "emergingSignals": [
+      {
+        "signal": "Protocol-native interface language",
+        "sourceCategory": "AI-native products",
+        "sourceUrl": "https://aws.amazon.com/blogs/machine-learning/build-generative-ui-for-ai-agents-on-amazon-bedrock-agentcore-with-the-ag-ui-protocol/",
+        "signalType": "interaction-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "AI interfaces are becoming transparent state systems with typed events, tool calls, shared state, and human approval moments.",
+        "characteristics": "Visible progress, component rendering, state deltas, artifact canvases, and explicit pause/resume states.",
+        "portfolioFit": "Translate into hero state rails and artifact-like panels, not literal chat UI.",
+        "avoid": false
+      },
+      {
+        "signal": "Controlled scrollytelling as a premium rhythm",
+        "sourceCategory": "Awwwards / editorial case studies",
+        "sourceUrl": "https://www.awwwards.com/sites/units",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Scroll is being used as pacing infrastructure for narrative continuity instead of page-by-page interruption.",
+        "characteristics": "Chaptered scroll, directional transitions, strong type, and restrained reveals.",
+        "portfolioFit": "Use cinematic chapter-scroll behavior in the hero and calm supporting sections.",
+        "avoid": false
+      },
+      {
+        "signal": "Tactile product-object interactions",
+        "sourceCategory": "Awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/bucks-sauce",
+        "signalType": "interaction-language",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Hover, stop-motion, and object cues make digital surfaces feel physical without requiring heavy spatial scenes.",
+        "characteristics": "Hover detail, product sliders, vertical menu choreography, and contained 3D object moments.",
+        "portfolioFit": "Apply as glass-safe card depth and hero artifact reveals.",
+        "avoid": false
+      },
+      {
+        "signal": "Creative-tech showcases as narrative worlds",
+        "sourceCategory": "CSS Design Awards",
+        "sourceUrl": "https://cssdesignawards.com/",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "mixed",
+        "recurrence": "emerging",
+        "whyItMatters": "AI and real-time creative tech are increasingly framed through story worlds and proof surfaces.",
+        "characteristics": "AI showcases, WebGL/WebGPU-adjacent environments, and innovation-heavy presentation systems.",
+        "portfolioFit": "Use a single atmospheric hero layer with static fallback.",
+        "avoid": false
+      },
+      {
+        "signal": "No-code motion parity",
+        "sourceCategory": "Webflow / Framer",
+        "sourceUrl": "https://www.rapidevelopers.com/webflow-tutorials/webflow-gsap-animations",
+        "signalType": "motion-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "GSAP-grade scroll and text choreography are becoming baseline expectations across production sites.",
+        "characteristics": "SplitText, ScrollTrigger, reusable timelines, sticky scroll transforms, and visual easing controls.",
+        "portfolioFit": "Keep the weekly system polished with tokenized subtle motion.",
+        "avoid": false
+      }
+    ],
+    "recurringMovements": [
+      "Sequence-driven scroll storytelling",
+      "Visible AI state and artifact surfaces",
+      "Tactile hover and object interactions",
+      "Atmospheric shader depth with typographic restraint",
+      "Accessible, tooling-supported motion systems"
+    ],
+    "shortLivedNovelty": [
+      "Literal chatbot hero treatments",
+      "Generic neon cyber aesthetics",
+      "Heavy cursor trails",
+      "Full-screen 3D worlds that reduce readability",
+      "Scroll-jacked panels without fallbacks"
+    ]
+  },
+  "visualCultureAnalyst": {
+    "dominantMovement": "Protocol-lit cinematic systems",
+    "supportingPatterns": [
+      "Interfaces reveal state to build trust",
+      "Scroll carries story continuity",
+      "Tactility is contained inside hover and object moments",
+      "Creative technology is strongest when it supports narrative clarity"
+    ],
+    "emotionalTone": "calm, precise, cinematic, trust-forward",
+    "interactionStyle": "cinematic chapter-scroll with contained depth reveals and stable navigation",
+    "portfolioRelevance": "High fit for a living portfolio because the hero can absorb the expressive state-system metaphor while content and navigation remain unchanged.",
+    "riskLevel": "Moderate if shader, cursor, or neon treatments become decorative; low when tokens stay high contrast and motion stays subtle.",
+    "favorOverNovelty": "Favor transparent state, chapter rhythm, and artifact depth over literal AI chat visuals or heavy immersive scenes."
+  },
+  "creativeDirectionName": "Protocol-Lit Cinematics"
+}
