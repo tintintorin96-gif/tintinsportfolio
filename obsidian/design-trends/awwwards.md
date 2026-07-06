@@ -28,3 +28,12 @@ Prioritize live production sites over case-study stills. Note what is technicall
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W28
+
+**Signal window:** 2026-06-29 - 2026-07-05
+
+- **Wembi, SOTD Jul 1:** Clean startup/product experience with GSAP, Nuxt, Craft CMS, and highlighted navigation/menu/mouse interactions. Signal: technical products are becoming approachable through tactile navigation and clear system choreography.
+- **Units, SOTD Jul 2:** Student housing repositioned as a premium lifestyle experience, with scrollytelling, hover detail, gallery, WebGL, and Lottie. Signal: lifestyle/product sites use scroll as an atmospheric chapter system while keeping the core offer legible.
+- **Bucks Sauce, SOTD Jul 3:** E-commerce with stop-motion bottle animation, product slider, vertical menu, and interactive 3D fruit. Signal: tactile object moments can make a brand feel physical without requiring full immersion.
+- **Portfolio fit:** Translate these into a hero-led system with controlled scroll progression, contained hover depth, and stable navigation.

@@ -29,3 +29,12 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W28
+
+**Signal window:** 2026-06-29 - 2026-07-05
+
+- Podium's case study frames the site as a temporal object: not a collection of pages, but a sequence that unfolds through scroll, transitions, and content hierarchy.
+- Units' Awwwards SOTD reinforces scrollytelling as a premium repositioning tool for lifestyle/product narratives.
+- The editorial movement is hierarchy plus pacing, not magazine mimicry. Large type, generous spacing, and directional reveals give the reader time to understand the story.
+- Portfolio fit: hero as prologue, supporting sections as chapters, work grid as quiet evidence. Do not rewrite case-study or project copy.

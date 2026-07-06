@@ -29,3 +29,13 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research - 2026-W28
+
+**Signal window:** 2026-06-29 - 2026-07-05
+
+- Week 28 luxury signals are less about serif editorial styling and more about controlled atmosphere, high contrast, and restraint.
+- Bucks Sauce's dark/warm palette, vertical menu, and product-object choreography show how a small brand can feel premium through confidence and tactility.
+- Units shows premium repositioning through community/lifestyle storytelling, color discipline, gallery rhythm, and scrollytelling.
+- AI-native product interfaces add a trust layer to luxury-tech: visible system state feels expensive when it is calm, precise, and legible.
+- Portfolio fit: deep ink surfaces, off-white type, mint signal accents, and glass-safe panel depth with WCAG-safe contrast.
