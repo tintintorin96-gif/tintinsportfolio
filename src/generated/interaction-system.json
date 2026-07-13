@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 28,
   "year": 2026,
   "cursorTreatment": "default",
   "scrollBehavior": "cinematic",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
   "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "heroInteraction": "intent-rail state reveal with subtle calibration cues and no chat-like takeover",
+  "reducedMotionFallback": "show the intent rail and hierarchy immediately; disable animated calibration, smooth scrolling, and depth lift"
 }

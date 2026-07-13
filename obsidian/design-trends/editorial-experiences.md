@@ -29,3 +29,9 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W28
+
+- 21 Hrs On The Moon and 100 Lost Species reinforce archival storytelling as scene design: atmosphere, sequence, and evidence make information feel discovered.
+- Brunello Cucinelli’s pageless commerce adds a luxury editorial layer: the journey is assembled around intent, but the brand voice remains authored and calm.
+- Portfolio implication: hero acts as prologue; supporting sections should feel like quiet chapters with clear hierarchy rather than rewritten narrative copy.

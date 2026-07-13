@@ -29,3 +29,10 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W28
+
+- AG-UI/A2UI references show agent interfaces maturing around event streams, state deltas, tool-call visibility, human approval, and structured UI components.
+- Brunello Cucinelli/Callimacus extends the same movement into luxury commerce: the experience reads user intent and assembles modules in real time while staying human, curated, and privacy-conscious.
+- The emerging principle is trust through visible state and authored adaptability, not plain chat or opaque personalization.
+- Portfolio implication: hero can borrow the language of signal detection and state confirmation while preserving fixed navigation and stable content.
