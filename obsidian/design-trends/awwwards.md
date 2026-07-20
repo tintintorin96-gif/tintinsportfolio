@@ -28,3 +28,13 @@ Prioritize live production sites over case-study stills. Note what is technicall
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W29
+
+- [PP Neue Montreal](https://www.awwwards.com/sites/pp-neue-montreal) (13 Jul) makes typography the content, setting, and chapter system rather than a decorative layer.
+- [House of Honey](https://www.awwwards.com/sites/house-of-honey-1) (14 Jul) translates movement through an interior into horizontal project passage and contextual microinteraction.
+- [RISK](https://www.awwwards.com/sites/risk) (15 Jul) coordinates fullscreen media, horizontal movement, WebGL, and transitions inside a restrained two-color frame.
+- [CoffeeTech](https://www.awwwards.com/sites/coffeetech-r) (16 Jul) contains 3D and 360-degree interaction within a precise minimal product story.
+- [Hiroto Sato](https://www.awwwards.com/sites/hiroto-sato) (17 Jul) treats a portfolio as a tactile digital product while retaining recognizable project access.
+
+**Movement:** award work is becoming more spatial, but the strongest examples derive behavior from subject matter and coordinate it as one system.

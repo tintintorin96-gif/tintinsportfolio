@@ -29,3 +29,10 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W29
+
+- [PP Neue Montreal](https://www.awwwards.com/sites/pp-neue-montreal) turns type history into a travel-guide sequence, making chapter structure part of the product demonstration.
+- [House of Honey](https://www.awwwards.com/sites/house-of-honey-1) uses a horizontal project journey to evoke moving through a designed space.
+
+**Movement:** editorial storytelling is becoming subject-specific choreography, not a magazine-style visual costume. For the portfolio, use the hero as prologue and keep later sections calm and linear.
