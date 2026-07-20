@@ -1,37 +1,39 @@
 {
-  "week": 25,
+  "week": 29,
   "year": 2026,
-  "dateRange": "2026-06-15 — 2026-06-21",
-  "creativeDirectionName": "Semantic Kinetic Hierarchy",
-  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
-  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
-  "experienceMood": "deliberate, physical, editorial-confident",
+  "dateRange": "2026-07-13 — 2026-07-19",
+  "creativeDirectionName": "Choreographed Context Field",
+  "oneSentenceConcept": "A cool, high-contrast hero becomes a living index where type, project fragments, and provenance shift through one coordinated focus-and-depth system.",
+  "heroConcept": "Oversized anchor type holds the left edge while a narrow sequence of indexed planes occupies the right, moving as one spatial field rather than separate cards. Scroll changes the active plane; pointer focus exposes a crisp cobalt trace without hiding ordinary links.",
+  "experienceMood": "lucid, exploratory, precise, quietly tactile",
   "emergingSignals": [
-    "Semantic motion as usability infrastructure, not decoration",
-    "Scroll-driven typographic hierarchy without WebGL dependency",
-    "Spring physics and restrained single-concept award experiences",
-    "AI-native streaming motion patterns for process state",
-    "Intentional imperfection as human credibility signal"
+    "Subject matter becoming the navigation and chapter grammar",
+    "Motion, WebGL, and transitions consolidating into one coordinated runtime",
+    "Minimal two-color frames carrying one bounded dimensional focus",
+    "Creative portfolios behaving like tactile digital products",
+    "AI-native workspaces making context persistent and traceable"
   ],
-  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
-  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
-  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
-  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
+  "visualLanguage": "Cool chalk and near-black establish a flat, legible field; oversized grotesk type provides the anchor while thin cobalt index lines, cropped project planes, and exact borders create spatial tension.",
+  "interactionLanguage": "One active hero plane responds to scroll and pointer focus while the remaining planes recede in a predictable sequence. Links, navigation, and supporting sections retain conventional behavior and visible focus states.",
+  "motionLanguage": "A single coordinated thread shifts plane position, depth, and index emphasis with short deceleration and no looping ambience. Supporting content uses restrained opacity and border-state changes only.",
+  "storytellingApproach": "The hero acts as a spatial prologue and visible index; supporting sections resolve into a calm linear record so exploration never competes with comprehension.",
   "creativeTechnologyIdeas": [
-    "CSS scroll-driven animation for hero type weight shift",
-    "View Transitions API for accent rule extension on load",
-    "Token-driven motion intensity via interaction-system.json"
+    "CSS transforms and scroll progress for the indexed hero planes",
+    "Optional lightweight canvas depth layer that never carries text or navigation",
+    "IntersectionObserver-managed active states with a static reduced-motion composition",
+    "View Transitions API crossfade for continuity without directional page theatrics"
   ],
-  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
-  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
-  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
-  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
+  "typographyDirection": "Overscaled bold grotesk for the hero anchor, compact uppercase index labels, and a stable sans body with generous line height; avoid serif-editorial signaling.",
+  "compositionDirection": "Asymmetric split field with a fixed typographic anchor and a compressed sequence of overlapping context planes; supporting sections return to an airy grid rhythm.",
+  "colorDirection": "Cool chalk background, near-black text, and one deep cobalt focus cue with AA contrast; muted blue-gray surfaces separate context without atmospheric gradients.",
+  "textureDirection": "Flat mineral surfaces, exact one-pixel rules, and subtle planar shadow only; depth comes from overlap and motion rather than glass, grain, or glow.",
+  "supportingPageTreatment": "Flat cards align to visible index rules, sections keep generous space and a stable reading order, and cobalt appears only on focus, provenance, and active-state cues.",
   "avoid": [
-    "Full WebGL immersive hero environments",
-    "Generic particle backgrounds and cursor gimmicks",
-    "Glassmorphism stacks without contrast intent",
-    "Snap-sections paired with expressive motion",
-    "Decorative gradient meshes without narrative purpose"
+    "All-canvas interfaces that hide readable text or standard links",
+    "Horizontal or infinite scroll without a content-specific reason",
+    "Simultaneous cursor, shader, audio, and transition spectacles",
+    "Generic agent-dashboard chrome or chat-interface mimicry",
+    "Warm cream editorial styling and serif magazine hierarchy",
+    "Motion without an equivalent static hierarchy under reduced motion"
   ]
 }

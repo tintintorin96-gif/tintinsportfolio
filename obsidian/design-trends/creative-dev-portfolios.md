@@ -29,3 +29,10 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W29
+
+- [Hiroto Sato](https://www.awwwards.com/sites/hiroto-sato) (17 Jul) combines responsive 3D, cinematic transitions, and tactile feedback while presenting the portfolio as a usable digital product.
+- [Trionn's technical study](https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/) shows that ambitious craft depends on shared render loops, synchronized input, and resource discipline.
+
+**Movement:** creative-development credibility is shifting from effect count to system coherence and performance-aware tactility.

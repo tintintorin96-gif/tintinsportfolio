@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 29,
   "year": 2026,
-  "cursorTreatment": "default",
+  "cursorTreatment": "highlight",
   "scrollBehavior": "cinematic",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
-  "motionIntensity": "subtle",
+  "pageTransition": "crossfade",
+  "motionIntensity": "expressive",
   "navigationBehavior": "stable",
-  "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "storytellingStyle": "panel-sequence",
+  "heroInteraction": "scroll advances a bounded sequence of context planes; pointer and keyboard focus expose the same cobalt provenance trace",
+  "reducedMotionFallback": "render all hero planes as a static indexed composition with immediate focus states, standard scrolling, and no depth interpolation"
 }

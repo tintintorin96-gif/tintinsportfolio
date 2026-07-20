@@ -29,3 +29,10 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W29
+
+- [House of Honey](https://www.awwwards.com/sites/house-of-honey-1) creates premium presence through measured passage, editorial clarity, and sensory pacing.
+- [CoffeeTech](https://www.awwwards.com/sites/coffeetech-r) uses a two-color frame and one dimensional product focus to communicate precision.
+
+**Movement:** premium digital language is moving toward controlled focus and spatial confidence. Avoid importing serif-editorial styling, warm cream palettes, or atmospheric effects without narrative purpose.

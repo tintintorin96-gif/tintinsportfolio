@@ -29,3 +29,11 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W29
+
+- [Perplexity Computer](https://www.perplexity.ai/changelog/brain-faster-computer-models-website-publishing) (13 Jul) makes work memory source-linked, inspectable, and reusable across tasks.
+- [OpenClaw v2026.7.1](https://docs.openclaw.ai/releases/2026.7.1) (13 Jul) restores arranged panes, sessions, tasks, and offline context across devices.
+- [Dify v1.16.0](https://github.com/langgenius/dify/releases/tag/1.16.0) (17 Jul) combines agent rosters, skills, files, tools, and a sandbox into a reusable workspace.
+
+**Movement:** AI-native interaction is moving from disposable chat streams to persistent context surfaces with visible provenance. Borrow continuity and traceability, not dashboard chrome.
