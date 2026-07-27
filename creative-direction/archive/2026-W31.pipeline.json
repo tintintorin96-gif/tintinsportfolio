@@ -1,0 +1,60 @@
+{
+  "week": 31,
+  "year": 2026,
+  "dateRange": "2026-07-27 — 2026-08-02",
+  "researchWindow": "2026-07-20 — 2026-07-26",
+  "creativeDirectionName": "Living Material Stage",
+  "dominantMovement": "Living material stages — identity, archive, and process as one craft continuum",
+  "secondaryMovements": [
+    "Strict two-color bipartite frames",
+    "Technical texture as focus language",
+    "Prestige craft with industrial precision"
+  ],
+  "primaryEvidence": [
+    {
+      "date": "2026-07-20",
+      "source": "Awwwards",
+      "title": "Lama Lama",
+      "url": "https://www.awwwards.com/sites/lama-lama-2"
+    },
+    {
+      "date": "2026-07-21",
+      "source": "Awwwards",
+      "title": "Lacoste — Polo Factory",
+      "url": "https://www.awwwards.com/sites/lacoste-polo-factory"
+    },
+    {
+      "date": "2026-07-22",
+      "source": "Awwwards",
+      "title": "Dragonfly Redux",
+      "url": "https://www.awwwards.com/sites/dragonfly-redux"
+    },
+    {
+      "date": "2026-07-26",
+      "source": "Awwwards",
+      "title": "Partizan",
+      "url": "https://www.awwwards.com/sites/partizan"
+    },
+    {
+      "date": "2026-07-25",
+      "source": "CSS Design Awards",
+      "title": "Noomo Showcase",
+      "url": "https://cssdesignawards.com/sites/noomo-showcase/49631/"
+    }
+  ],
+  "experiencePrinciples": [
+    "Typographic hierarchy can act as material",
+    "Archive fragments belong in the same stage when subordinated to hierarchy",
+    "Technical texture is a focus affordance, not a background effect",
+    "Prestige reads through restraint and exact two-color discipline"
+  ],
+  "emotionalTone": "grounded, kinetic, craft-confident, industrially precise",
+  "avoid": [
+    "Warm cream editorial palettes with serif magazine hierarchy",
+    "Full-site gamification that obscures scanning",
+    "ASCII or shader overlays covering body text",
+    "Unbounded WebGL showreels without readable entry points",
+    "Chat-dashboard mimicry",
+    "Motion without reduced-motion static hierarchy"
+  ]
+}

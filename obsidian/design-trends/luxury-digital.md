@@ -29,3 +29,9 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W31
+
+- Lacoste Polo Factory, Jesko Jets, and Dragonfly Redux read as prestige craft with industrial precision — process, access, and influence over ornamental luxury.
+- Two-color bipartite systems (black/white, black/oxide) recur as the luxury signal more than soft gradient atmospheres.
+- Avoid importing warm cream editorial palettes even when agency sites use them; extract material discipline instead.

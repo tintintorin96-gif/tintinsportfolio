@@ -29,3 +29,9 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W31
+
+- Dragonfly Redux demonstrates technical texture (ASCII hover) as portfolio-safe focus language when confined to interactive states.
+- Russell Numo — Portfolio (CSSDA, 26 Jul) continues the high-craft personal-site lane with strong panel scores.
+- Implication: experimental hover/index behavior belongs in the hero; project access and navigation stay conventional.
