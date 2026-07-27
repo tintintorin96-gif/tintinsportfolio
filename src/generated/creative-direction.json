@@ -1,37 +1,39 @@
 {
-  "week": 25,
+  "week": 31,
   "year": 2026,
-  "dateRange": "2026-06-15 — 2026-06-21",
-  "creativeDirectionName": "Semantic Kinetic Hierarchy",
-  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
-  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
-  "experienceMood": "deliberate, physical, editorial-confident",
+  "dateRange": "2026-07-27 — 2026-08-02",
+  "creativeDirectionName": "Living Material Stage",
+  "oneSentenceConcept": "The hero becomes a living material stage where identity morphs through typographic hierarchy, and archive presence shares the same continuum as current craft without becoming a showreel or dashboard.",
+  "heroConcept": "Overscaled stacked type occupies a cinematic band as living material — weight and tracking shift on scroll as one morphing identity thread. A thin oxide material rule and a bounded technical texture reveal on focus mark craft presence; archive-like fragment labels stay subordinate to hierarchy.",
+  "experienceMood": "grounded, kinetic, craft-confident, industrially precise",
   "emergingSignals": [
-    "Semantic motion as usability infrastructure, not decoration",
-    "Scroll-driven typographic hierarchy without WebGL dependency",
-    "Spring physics and restrained single-concept award experiences",
-    "AI-native streaming motion patterns for process state",
-    "Intentional imperfection as human credibility signal"
+    "Identity behaving as morphing material rather than a static lockup",
+    "Archive and present work sharing one craft stage",
+    "Technical texture as focus language inside two-color frames",
+    "Process environments replacing passive brand pages",
+    "Showreels becoming spatial showcases with readable entry points"
   ],
-  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
-  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
-  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
-  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
+  "visualLanguage": "Cool mineral paper and near-black establish a bipartite craft field; overscaled grotesk type acts as living material while a deep oxide accent and exact borders mark process presence without cream-editorial softness.",
+  "interactionLanguage": "Scroll morphs hero type material as one causal thread; pointer and keyboard focus expose the same technical texture cue. Navigation, links, and supporting sections retain conventional behavior and visible focus states.",
+  "motionLanguage": "One hero-only morphing material sequence with short deceleration — type weight/tracking shift plus material-rule extension. Supporting sections use restrained opacity and border-state changes only; no looping ambience.",
+  "storytellingApproach": "Hero as living craft stage and prologue; supporting sections resolve into a calm linear record so archive presence never competes with comprehension.",
   "creativeTechnologyIdeas": [
-    "CSS scroll-driven animation for hero type weight shift",
-    "View Transitions API for accent rule extension on load",
-    "Token-driven motion intensity via interaction-system.json"
+    "CSS scroll-driven animation for hero type weight and tracking morph",
+    "Optional lightweight canvas/ASCII texture layer that never carries text or navigation",
+    "IntersectionObserver-managed material states with a static reduced-motion composition",
+    "View Transitions API crossfade for continuity without directional page theatrics"
   ],
-  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
-  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
-  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
-  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
+  "typographyDirection": "Overscaled bold grotesk for the hero material stage, compact uppercase fragment labels, and a stable sans body with generous line height; avoid serif-editorial signaling.",
+  "compositionDirection": "Cinematic-band hero with stacked typographic material and subordinate fragment labels; supporting sections return to an airy grid rhythm with muted bands.",
+  "colorDirection": "Cool mineral paper background, near-black text, and one deep oxide accent with AA contrast; muted stone surfaces separate context without warm cream or atmospheric gradients.",
+  "textureDirection": "Flat mineral surfaces, exact one-pixel rules, and a bounded technical texture only on focus; depth comes from material morph and overlap rather than glass, grain, or glow.",
+  "supportingPageTreatment": "Bordered cards and muted section bands inherit the oxide accent only on interactive affordances; navigation stays structurally stable with a minimal material underline.",
   "avoid": [
-    "Full WebGL immersive hero environments",
-    "Generic particle backgrounds and cursor gimmicks",
-    "Glassmorphism stacks without contrast intent",
-    "Snap-sections paired with expressive motion",
-    "Decorative gradient meshes without narrative purpose"
+    "Warm cream editorial palettes with serif magazine hierarchy",
+    "Full-site gamification or factory metaphors that obscure scanning",
+    "ASCII or shader overlays covering body text or links",
+    "Unbounded WebGL showreels without readable entry points",
+    "Chat-dashboard or agent-chrome mimicry",
+    "Motion without an equivalent static hierarchy under reduced motion"
   ]
 }

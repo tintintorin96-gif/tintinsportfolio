@@ -29,3 +29,8 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W31
+
+- Award-site signals this week were craft-stage and material-identity led; AI-native products reinforce the same need for visible state without chat chrome.
+- Borrow persistent craft presence and inspectable focus cues; do not mimic agent dashboards or streaming chat surfaces in the portfolio.

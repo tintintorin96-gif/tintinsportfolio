@@ -29,3 +29,9 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W31
+
+- Partizan’s living-reel + classics archive grammar keeps heritage and present work in one scroll story without magazine serif theatrics.
+- Lama Lama’s DNA morph treats narrative identity as kinetic material rather than chapter copy alone.
+- Portfolio implication: hero as craft prologue/stage; supporting sections remain a calm linear record.

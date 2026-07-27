@@ -28,3 +28,12 @@ Prioritize live production sites over case-study stills. Note what is technicall
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W31
+
+- [Lama Lama](https://www.awwwards.com/sites/lama-lama-2) (20 Jul) morphs agency DNA as living content inside a strict two-color frame.
+- [Lacoste — Polo Factory](https://www.awwwards.com/sites/lacoste-polo-factory) (21 Jul) turns brand process into a feedback-driven factory stage rather than a passive lookbook.
+- [Dragonfly Redux](https://www.awwwards.com/sites/dragonfly-redux) (22 Jul) uses ASCII hover and index behaviors as technical texture inside a black/oxide bipartite system.
+- [Partizan](https://www.awwwards.com/sites/partizan) (26 Jul) stages living reel and classics archive as one continuum with grid/list craft scanning.
+
+**Movement:** award sites are treating identity, archive, and process as shared material on one stage — expressive in the hero band, legible everywhere else.
