@@ -1,37 +1,38 @@
 {
-  "week": 25,
+  "week": 33,
   "year": 2026,
-  "dateRange": "2026-06-15 — 2026-06-21",
-  "creativeDirectionName": "Semantic Kinetic Hierarchy",
-  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
-  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
-  "experienceMood": "deliberate, physical, editorial-confident",
+  "dateRange": "2026-08-10 — 2026-08-16",
+  "creativeDirectionName": "Indexed Continuum",
+  "oneSentenceConcept": "The hero reads as a living catalog index — typographic hierarchy staged in chapters — so the portfolio feels like one trustworthy continuum instead of a gallery of effects.",
+  "heroConcept": "Overscaled stacked-type index headline with subtle chapter markers that resolve on scroll; cool catalog field and a single lucid teal continuum rule that extends on entry. Experimental only in the hero band.",
+  "experienceMood": "calm-confident, archival, trustworthy, continuum-paced",
   "emergingSignals": [
-    "Semantic motion as usability infrastructure, not decoration",
-    "Scroll-driven typographic hierarchy without WebGL dependency",
-    "Spring physics and restrained single-concept award experiences",
-    "AI-native streaming motion patterns for process state",
-    "Intentional imperfection as human credibility signal"
+    "Unified trust systems where content, visuals, and interaction act as one",
+    "Archive-as-framework over disposable trend galleries",
+    "Chaptered scroll storytelling with practical destinations intact",
+    "Brand atmosphere felt before feature explanation",
+    "AI as compositional material rather than chat chrome"
   ],
-  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
-  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
-  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
-  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
+  "visualLanguage": "Cool catalog paper with deep ink hierarchy and one lucid teal accent channel — restrained surfaces so typographic index and continuum cues carry the art direction.",
+  "interactionLanguage": "Chapter-resolve scroll in the hero; depth-reveal hover on affordances; navigation stays structurally stable with minimal continuum underline.",
+  "motionLanguage": "Subtle continuum pacing — accent rule extension on entry, chapter markers easing into place on scroll. No snap-sections; instant hierarchy under prefers-reduced-motion.",
+  "storytellingApproach": "Hero as indexed prologue; supporting sections continue as quieter catalog bands in linear calm — never competing chapter systems below the fold.",
   "creativeTechnologyIdeas": [
-    "CSS scroll-driven animation for hero type weight shift",
-    "View Transitions API for accent rule extension on load",
-    "Token-driven motion intensity via interaction-system.json"
+    "CSS scroll-driven animation for hero chapter-marker resolve",
+    "View Transitions API crossfade to preserve place between routes",
+    "Token-driven continuum accent via theme and interaction-system JSON"
   ],
-  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
-  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
-  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
-  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
+  "typographyDirection": "Bold sans display as catalog index scale in the hero; highly legible minimal body rhythm elsewhere — no serif magazine editorial.",
+  "compositionDirection": "Stacked-type hero with deliberate vertical chapter rhythm; supporting sections use muted catalog bands and comfortable grid spacing.",
+  "colorDirection": "Cool gray-green paper field, near-black green ink type, single deep teal accent for continuum emphasis only.",
+  "textureDirection": "Flat catalog fills and fine border weight — no grain stacks, glassmorphism, or decorative gradient meshes.",
+  "supportingPageTreatment": "Quieter bordered cards on muted section bands; accent reserved for interactive affordances and a stable continuum underline in navigation.",
   "avoid": [
-    "Full WebGL immersive hero environments",
-    "Generic particle backgrounds and cursor gimmicks",
-    "Glassmorphism stacks without contrast intent",
-    "Snap-sections paired with expressive motion",
-    "Decorative gradient meshes without narrative purpose"
+    "Full WebGL arcade or advergame heroes",
+    "Playful jiggly CTA and ear-popping novelty stacks",
+    "Warm cream editorial palettes with serif magazine display",
+    "Literal desktop-OS chrome without typographic hierarchy",
+    "Purple AI glow gradients and glassmorphism without contrast intent",
+    "Snap-sections paired with expressive motion"
   ]
 }

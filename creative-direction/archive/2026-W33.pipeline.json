@@ -1,0 +1,71 @@
+{
+  "week": 33,
+  "year": 2026,
+  "dateRange": "2026-08-10 — 2026-08-16",
+  "researchWindow": "2026-08-03 — 2026-08-09",
+  "scout": {
+    "emergingSignals": [
+      {
+        "signal": "Unified trust systems for complex narratives",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/alethia",
+        "signalType": "interaction-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Content, visuals, and interaction operate as one calm system that makes complexity feel trustworthy.",
+        "characteristics": "Narrative-driven scroll, restrained chrome, science/brand clarity",
+        "portfolioFit": "Single trustworthy hero language; quieter supporting sections",
+        "avoid": false
+      },
+      {
+        "signal": "Archive-as-framework over gallery-as-marketing",
+        "sourceCategory": "creative-dev-portfolios",
+        "sourceUrl": "https://tympanus.net/codrops/2026/08/08/designing-a-flexible-digital-archive-for-chems-studios-creative-practice/",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Durable catalog structures age better than trend skins that reset with every project.",
+        "characteristics": "Index typography, continuous transitions, framework over composition",
+        "portfolioFit": "Catalog-index hero; work grid as quiet archive bands",
+        "avoid": false
+      },
+      {
+        "signal": "Chaptered cultural / brand continua",
+        "sourceCategory": "css-design-awards",
+        "sourceUrl": "https://www.cssdesignawards.com/",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Scroll chapters carry identity while conversion and destinations remain reachable.",
+        "characteristics": "Chapter rhythm, place atmosphere, practical CTAs intact",
+        "portfolioFit": "Chapter-scroll hero; linear calm below",
+        "avoid": false
+      }
+    ],
+    "recurringMovements": [
+      "Trusted continuum systems",
+      "Persistent archive frameworks",
+      "Brand felt before explained"
+    ],
+    "shortLivedNovelty": [
+      "WebGL arcade portfolio defaults",
+      "Jiggly CTA novelty stacks",
+      "Literal desktop-OS chrome without hierarchy"
+    ]
+  },
+  "analyst": {
+    "dominantMovement": "Trusted continuum systems",
+    "supportingPatterns": [
+      "Archive-as-framework",
+      "Chaptered scroll continua",
+      "Restrained chrome with expressive media/hierarchy"
+    ],
+    "emotionalTone": "calm-confident, archival, trustworthy",
+    "interactionStyle": "chapter-resolve scroll with stable navigation",
+    "portfolioRelevance": "Hero-led index continuum preserves content IA while feeling culturally current",
+    "riskLevel": "low when motion stays subtle and reduced-motion is respected",
+    "favorOverNovelty": "Durable catalog hierarchy and trust systems over game/gimmick heroes"
+  },
+  "creativeDirectionName": "Indexed Continuum",
+  "heroVariant": "hierarchy-led"
+}

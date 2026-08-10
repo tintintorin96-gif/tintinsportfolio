@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 33,
   "year": 2026,
-  "cursorTreatment": "default",
+  "cursorTreatment": "highlight",
   "scrollBehavior": "cinematic",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
   "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "heroInteraction": "scroll-resolved chapter markers with continuum accent rule extension on entry",
+  "reducedMotionFallback": "static index hierarchy and accent rule at rest; no scroll-linked chapter animation or crossfade motion"
 }

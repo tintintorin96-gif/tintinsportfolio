@@ -26,6 +26,11 @@ Use for **experimental but usable** portfolio and showcase experiences.
 
 Favor portfolios that balance ambition with clarity — suitable for a content-stable living portfolio.
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- **Chems.Studio** (Codrops Aug 8) — flexible digital archive; framework that ages; Swup continuity
+- **/nk.studio 20 Years** — anniversary archive with typographic honors nomination
+- **Parinaz's Desktop Portfolio** — interactive systems portfolio (extract clarity, not OS cosplay)
+- Principle: hero as experimental index canvas; supporting sections stay catalog-calm

@@ -1,15 +1,15 @@
 {
-  "week": 25,
+  "week": 33,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
+  "themeName": "Indexed Continuum",
   "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "background": "#F2F5F4",
+  "foreground": "#101614",
+  "accent": "#0B6E62",
+  "muted": "#E6EBE9",
+  "border": "#C9D2CF",
+  "radius": "4px",
+  "shadow": "0 10px 36px rgba(16, 22, 20, 0.06)",
   "spacing": {
     "section": "airy",
     "grid": "comfortable",
@@ -18,20 +18,20 @@
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "overscaled catalog-index display in hero, comfortable body elsewhere"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "continuum accent rule on entry; chapter-marker resolve on scroll; calm depth on hover"
   },
   "hero": {
     "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "visualEffect": "index hierarchy with scroll-resolved chapter markers on cool catalog field",
+    "interaction": "continuum teal rule extends on entry; chapter markers ease into place on scroll"
   },
   "pageTreatment": {
     "cards": "bordered",
     "sections": "muted-bands",
-    "navigation": "minimal-border"
+    "navigation": "accent-underline"
   }
 }

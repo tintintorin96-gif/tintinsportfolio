@@ -8,6 +8,8 @@ Use for **emerging UI patterns and design-system experiments** (not static mocks
 - Component systems with clear hierarchy
 - Patterns that translate to production interaction language
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+No primary Figma Community shipments drove this week’s direction. Supporting pattern from shipped sites: systems-thinking portfolios and trust UI for complex data — hierarchy and calm state communication over decorative component kits.

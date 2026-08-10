@@ -26,6 +26,11 @@ Use for **AI-native interface aesthetics** and emerging product interaction patt
 
 Prefer shipped product patterns over concept mockups. Extract principles, not UI clones.
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- **The Triadic Ballet AI** (CSSDA WOTD Aug 4) — AI imagery as creative reinterpretation material
+- **Parinaz's Desktop Portfolio** (CSSDA WOTD Aug 9) — AI case studies inside a systems-thinking portfolio frame
+- **My old portfolio: Enhanced by AI** — CSSDA nominee Aug 8 (supporting)
+- Principle: treat AI as compositional/case material; avoid chatbot chrome and purple glow defaults in the hero

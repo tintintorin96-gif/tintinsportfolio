@@ -8,6 +8,10 @@ Use for **generative, WebGL, and code-forward experiences** that ship.
 - Generative typography and adaptive layout ideas
 - Creative tech that supports storytelling, not spectacle alone
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- Three.js micro-game craft on Lacoste Ace Breaker — campaign-specific; portfolio extracts single-verb interaction, not WebGL default
+- View Transitions / continuous routing as continuity tech (Chems Swup analogue)
+- AI generative material (Triadic Ballet AI) as optional accent idea, not hero dependency
