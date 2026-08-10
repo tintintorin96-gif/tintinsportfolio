@@ -8,6 +8,10 @@ Use for **no-code / low-code shipped marketing and portfolio sites**.
 - Typography-led heroes and grid systems
 - Performance-conscious motion patterns
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- **No Art** (Webflow + Shopify + GSAP) — immersive label/festival platform with integrated shop
+- **Chems.Studio** (Webflow + Swup) — Codrops Aug 8 case: archive-as-framework, continuous place-preserving transitions, monospaced catalog tone
+- Signal: durable CMS frameworks and continuous navigation over trend-reset portfolio skins

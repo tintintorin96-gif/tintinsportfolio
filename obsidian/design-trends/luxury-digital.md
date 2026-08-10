@@ -26,6 +26,11 @@ Use for **premium, high-contrast, intentional** digital brand experiences.
 
 Extract mood and hierarchy principles for a hero-led system. Never import warm cream editorial palettes or serif display unless contrast-safe and on-brand.
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- **MilleDollars** — high-end film bureau showcase; storyboards/BTS woven with restraint
+- **Son Daven** — premium hospitality/investment experience with cultural atmosphere
+- **Produx Design** — brand perception over time; felt before spoken
+- Principle: atmospheric restraint + hierarchy clarity; avoid warm-cream editorial magazine bias

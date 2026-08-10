@@ -26,6 +26,11 @@ Use for **storytelling systems** and narrative hierarchy — not magazine layout
 
 Apply storytelling patterns to the hero and supporting sections only. Case study copy and IA remain stable — teaser presentation may inherit light treatment.
 
-## Latest weekly research
+## Latest weekly research — 2026-W33
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-03 — 2026-08-09
+
+- **/nk.studio 20 Years** — archive of inspiring people/moments; chaptered story continuum
+- **Son Daven** — cultural place narrative with scroll chapters and practical destinations
+- **Alethia** — narrative scroll that clarifies complex content without magazine-serif cliché
+- Principle: index/archive storytelling with hierarchy-led type — not broadsheet magazine pastiche
