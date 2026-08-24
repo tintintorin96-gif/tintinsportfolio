@@ -26,6 +26,12 @@ Use for **experimental but usable** portfolio and showcase experiences.
 
 Favor portfolios that balance ambition with clarity — suitable for a content-stable living portfolio.
 
-## Latest weekly research
+## Latest weekly research — 2026-W35
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-17 — 2026-08-23
+
+- **The Watch** (60fps): content-adjacent WebGL as a single object instrument — principle of spatial anchoring, not a Three.js hero requirement
+- **Oimachi**: high-contrast studio site with AI visibility as a capability, not a demo
+- **Revelatio Studio** (CSSDA Aug 21): studio-as-craft surface
+
+Favor CSS/token-driven inspection (depth-reveal, calibration rule) over shipping a second WebGL runtime.

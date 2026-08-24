@@ -1,15 +1,15 @@
 {
-  "week": 25,
+  "week": 35,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
-  "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "themeName": "Calibrated Object Field",
+  "heroVariant": "luxury-tech",
+  "background": "#E8EEF2",
+  "foreground": "#12171C",
+  "accent": "#1A4A7A",
+  "muted": "#D9E2EA",
+  "border": "#C3CED8",
+  "radius": "2px",
+  "shadow": "0 10px 32px rgba(18, 23, 28, 0.07)",
   "spacing": {
     "section": "airy",
     "grid": "comfortable",
@@ -18,16 +18,16 @@
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "overscaled instrument-object display in hero, comfortable body elsewhere"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "sapphire calibration rule on entry; quiet depth-reveal on hover"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "layout": "asymmetric",
+    "visualEffect": "inspectable typographic object offset on a cool instrument field",
+    "interaction": "calibration rule resolves on entry; hover depth-reveals the object plane"
   },
   "pageTreatment": {
     "cards": "bordered",

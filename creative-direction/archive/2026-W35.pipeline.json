@@ -1,0 +1,66 @@
+{
+  "week": 35,
+  "year": 2026,
+  "dateRange": "2026-08-24 — 2026-08-30",
+  "researchWindow": "2026-08-17 — 2026-08-23",
+  "scout": {
+    "signals": [
+      "Content-reactive object staging",
+      "Precision instrument + paper systems",
+      "Architectural volume with hover inspection",
+      "Production-craft composure",
+      "AI as visibility and cinematic world, not chatbot UI"
+    ],
+    "examples": [
+      "The Watch — Awwwards SOTD 2026-08-17",
+      "Michael Gatt Folio — Awwwards SOTD 2026-08-18",
+      "LIKOVA — Awwwards SOTD 2026-08-19",
+      "Cipher — Awwwards SOTD 2026-08-20",
+      "Oimachi — Awwwards SOTD 2026-08-21",
+      "The state of the gallery — Awwwards SOTD 2026-08-22",
+      "Kononenko Architectural Bureau — Awwwards SOTD 2026-08-23",
+      "Melius — CSSDA WOTD 2026-08-17",
+      "Scheme Engine — CSSDA WOTD 2026-08-18",
+      "CA Film Creatives — CSSDA WOTD 2026-08-19",
+      "Aspen Search — CSSDA WOTD 2026-08-20",
+      "Revelatio Studio — CSSDA WOTD 2026-08-21",
+      "NOTA | Smart Writing System — CSSDA WOTD 2026-08-22",
+      "Become A Yogi — CSSDA WOTD 2026-08-23"
+    ],
+    "recurringMovements": [
+      "Object-as-spatial-anchor",
+      "Architectural minimalism with bold hierarchy",
+      "Production-craft composure",
+      "High-contrast studio identity",
+      "Cinematic photography with refined motion"
+    ],
+    "shortLivedNovelty": [
+      "Oil-slick particle cursors",
+      "Glass video-tile assemblies",
+      "Full WebGL product replicas as portfolio default"
+    ]
+  },
+  "analyst": {
+    "dominantMovement": "Calibrated object presence",
+    "secondaryMovements": [
+      "Instrument-field luxury-tech",
+      "Architectural volume inspection"
+    ],
+    "emotionalTone": "measured, instrument-cool, quietly luxurious",
+    "experiencePrinciples": [
+      "Hierarchy as an inspectable object, not a catalog index",
+      "One calibration accent, cool field, tight geometry",
+      "Hover as inspection; motion as causal state"
+    ],
+    "avoid": [
+      "WebGL spectacle as the hero default",
+      "Warm cream editorial + serif magazine display",
+      "Chatbot chrome and purple AI glow"
+    ]
+  },
+  "director": {
+    "creativeDirectionName": "Calibrated Object Field",
+    "heroVariant": "luxury-tech",
+    "heroLayout": "asymmetric"
+  }
+}

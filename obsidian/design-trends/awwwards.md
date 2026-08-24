@@ -25,6 +25,16 @@ Prioritize live production sites over case-study stills. Note what is technicall
 - Treating one-off award stunts as recurring movements
 - Surface-level “trend” labels without experience rationale
 
-## Latest weekly research
+## Latest weekly research — 2026-W35
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-17 — 2026-08-23
+
+- **The Watch** (60fps) — SOTD Aug 17: luxury object as content-reactive WebGL; extract *object-as-spatial-anchor*, not a product replica
+- **Michael Gatt Folio** (Synchronized Studio) — SOTD Aug 18: selected-work universe for film/TV/games/music; production-craft composure
+- **LIKOVA** (Vide Infra) — SOTD Aug 19: architectural business-center presence; navy `#070B20` + cool gray `#E3E6EB`; WebGL illustration + page animation
+- **Cipher** (Magnetism) — SOTD Aug 20: precision-vs-possibility studio; dark monochrome; crafted loader/transition language
+- **Oimachi** — SOTD Aug 21: Copenhagen studio; branding + development + AI visibility; stark black/white
+- **The state of the gallery** (Majo Puterka) — SOTD Aug 22: Three.js gallery overview; oil-slick hover + glass tiles — *deprioritize as novelty*
+- **Kononenko Architectural Bureau** (Reksa Andhika) — SOTD Aug 23: minimalism, bold type, thoughtful structure, hover inspection
+
+Recurring: calibrated object / architectural volume over spectacle stacks.
