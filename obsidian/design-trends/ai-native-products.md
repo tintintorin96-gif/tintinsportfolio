@@ -26,6 +26,12 @@ Use for **AI-native interface aesthetics** and emerging product interaction patt
 
 Prefer shipped product patterns over concept mockups. Extract principles, not UI clones.
 
-## Latest weekly research
+## Latest weekly research — 2026-W35
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-17 — 2026-08-23
+
+- **Oimachi** (Awwwards SOTD Aug 21): “AI visibility” framed as studio competence in stark black/white — not a chat surface
+- **Melius** (CSSDA WOTD Aug 17): AI for creative teams presented as a cinematic world, not a prompt box
+- Recurring product pattern (Cursor / Claude / Linear / Notion / v0): prompt surfaces as structured, observable, reversible instruments — selection-bound context, tool toggles, artifact panes
+
+Portfolio translation: structured presence and calibration, never chatbot chrome or purple glow.

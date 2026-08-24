@@ -26,6 +26,12 @@ Use for **storytelling systems** and narrative hierarchy — not magazine layout
 
 Apply storytelling patterns to the hero and supporting sections only. Case study copy and IA remain stable — teaser presentation may inherit light treatment.
 
-## Latest weekly research
+## Latest weekly research — 2026-W35
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-17 — 2026-08-23
+
+- **Become A Yogi**: editorial Webflow platform; cinematic photography, lineage as chapters, refined motion
+- **Kononenko**: projects revealed through airy structure — images as material, type as structure (sans translation for this portfolio)
+- **CA Film / Scheme Engine**: production narrative as selected work, not magazine layout
+
+Storytelling: hero as inspected object (prologue); supporting sections as linear calm. Case study copy unchanged.

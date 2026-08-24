@@ -26,6 +26,13 @@ Use for **premium, high-contrast, intentional** digital brand experiences.
 
 Extract mood and hierarchy principles for a hero-led system. Never import warm cream editorial palettes or serif display unless contrast-safe and on-brand.
 
-## Latest weekly research
+## Latest weekly research — 2026-W35
 
-_Updated by the Experience Signal Scout each week._
+**Window:** 2026-08-17 — 2026-08-23
+
+- **The Watch**: luxury object shown at its best — black/steel, measured interaction
+- **NOTA**: precision instrument + intelligent paper as luxury-tech craft
+- **Aspen Search**: boutique search firm; quiet high-contrast professionalism
+- **LIKOVA**: mineral navy / cool gray architectural luxury
+
+Keep cool instrument paper; reject warm cream editorial palettes and serif magazine display.
