@@ -1,37 +1,40 @@
 {
-  "week": 25,
+  "week": 36,
   "year": 2026,
-  "dateRange": "2026-06-15 — 2026-06-21",
-  "creativeDirectionName": "Semantic Kinetic Hierarchy",
-  "oneSentenceConcept": "Typography still leads, but motion now carries state — causal scroll-linked reveals tie position to hierarchy weight in the hero canvas only.",
-  "heroConcept": "Overscaled stacked headline with scroll-linked weight shift; accent underline extends on entry as one causal motion thread. Asymmetric offset for human rhythm — experimental only in the hero band.",
-  "experienceMood": "deliberate, physical, editorial-confident",
+  "dateRange": "2026-08-31 — 2026-09-06",
+  "creativeDirectionName": "Chaptered Chamber",
+  "oneSentenceConcept": "The hero becomes the first chamber of a maison-index — chaptered typography and object-led reveals, not a walkable WebGL house.",
+  "heroConcept": "Cinematic band as a reading chamber: overscaled stacked type, a single chapter rule that extends on entry, cool stone paper and wine-ink. Scroll advances the prologue; objects stay indexed, not immersive.",
+  "experienceMood": "composed, literary-confident, cool-chamber",
   "emergingSignals": [
-    "Semantic motion as usability infrastructure, not decoration",
-    "Scroll-driven typographic hierarchy without WebGL dependency",
-    "Spring physics and restrained single-concept award experiences",
-    "AI-native streaming motion patterns for process state",
-    "Intentional imperfection as human credibility signal"
+    "Chaptered editorial as spatial architecture",
+    "Object-led discovery as a readable index, not an immersive world",
+    "Maison / atelier luxury through identity, space, and digital restraint",
+    "Data, analysis, and motion as a single visual language",
+    "High-contrast monochrome supporting calm after an expressive first chamber"
   ],
-  "visualLanguage": "Editorial confidence with physical motion cues — high-contrast flat field, hierarchy as primary texture, one accent channel for causal emphasis.",
-  "interactionLanguage": "Scroll-linked hero hierarchy; spring easing on CTAs and accent reveal; navigation and content zones stay predictable and stable.",
-  "motionLanguage": "Causal transitions only — weight shift on scroll, accent rule extension on load. Subtle elsewhere; instant hierarchy under prefers-reduced-motion.",
-  "storytellingApproach": "Hero prologue with scroll-as-input; supporting sections reveal in calm linear sequence without competing motion.",
+  "visualLanguage": "Cool chamber paper, chamber ink, and one wine-ink accent. Typographic rooms with tight architectural radii — maison restraint, not cream editorial or instrument-steel product chrome.",
+  "interactionLanguage": "Chapter advance in the hero; framed depth-reveal on work teasers as object-as-index. Navigation remains a stable lintel. No magnetic cursor, no walkable house.",
+  "motionLanguage": "One causal thread: chapter-rule extension on entry, crossfade between chambers. Subtle elsewhere. Instant hierarchy under prefers-reduced-motion.",
+  "storytellingApproach": "Hero is the prologue chamber. Supporting sections inherit as quieter chapters in linear sequence. Case-study teasers stay teasers — catalog as index, not unboxing.",
   "creativeTechnologyIdeas": [
-    "CSS scroll-driven animation for hero type weight shift",
-    "View Transitions API for accent rule extension on load",
-    "Token-driven motion intensity via interaction-system.json"
+    "CSS scroll-driven animation for a single hero chapter-rule extension",
+    "View Transitions API crossfade between chambers",
+    "Token-driven motion intensity via interaction-system.json — no WebGL environment"
   ],
-  "typographyDirection": "Bold sans display with scroll-responsive weight in hero; stable comfortable body rhythm elsewhere.",
-  "compositionDirection": "Asymmetric stacked-type hero with deliberate offset; supporting sections use muted bands and grid rhythm.",
-  "colorDirection": "Warm near-white field, near-black type, single saturated accent for causal emphasis only.",
-  "textureDirection": "Flat fills and border weight — no grain, glass, or gradient unless contrast-safe and narrative-driven.",
-  "supportingPageTreatment": "Calmer bordered cards and muted section bands; tokens echo hero accent on interactive affordances only.",
+  "typographyDirection": "Bold sans display overscaled in the cinematic band; comfortable minimal body in supporting chambers. Hierarchy-led type, not serif magazine editorial.",
+  "compositionDirection": "Cinematic-band hero as the first room; supporting sections use muted bands and a comfortable grid. Asymmetry only as a human offset inside the band.",
+  "colorDirection": "Cool chamber paper field, near-black ink, single wine-ink accent for chapter emphasis only.",
+  "textureDirection": "Flat fills, fine border weight, one hairline chapter rule. No grain, glass stacks, pastel capsules, or gradient meshes.",
+  "supportingPageTreatment": "Calmer bordered cards and muted section bands after the first chamber. Accent only on interactive affordances. Navigation keeps a minimal border lintel.",
   "avoid": [
-    "Full WebGL immersive hero environments",
-    "Generic particle backgrounds and cursor gimmicks",
-    "Glassmorphism stacks without contrast intent",
+    "Full WebGL walkable houses and immersive 3DCG chapter worlds",
+    "90s pastel retro capsules and illustration-led novelty",
+    "Jiggly CTA and ear-popping hover gimmicks",
+    "Comic-book full-world brand universes",
+    "Warm cream editorial palettes and serif magazine layouts",
     "Snap-sections paired with expressive motion",
-    "Decorative gradient meshes without narrative purpose"
+    "Mouse-following RGB lens as the default cursor",
+    "Portfolio boot sequences and spinning-disc intros"
   ]
 }

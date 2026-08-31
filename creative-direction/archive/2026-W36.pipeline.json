@@ -1,0 +1,99 @@
+{
+  "week": 36,
+  "year": 2026,
+  "dateRange": "2026-08-31 — 2026-09-06",
+  "researchWindow": "2026-08-24 — 2026-08-30",
+  "signalScout": {
+    "emergingSignals": [
+      {
+        "signal": "Chaptered editorial as spatial architecture",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/ai-in-design-report-2026",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Research and brand sites stage themselves as houses of chapters instead of continuous spectacle.",
+        "characteristics": "Chapter nav, chapter-header motion, editorial charts sharing one type system",
+        "portfolioFit": "Hero as first chamber; supporting sections inherit as quieter chapters",
+        "avoid": false
+      },
+      {
+        "signal": "Object-led discovery as an index",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/miu-miu-a-house-that-we-shaped",
+        "signalType": "interaction-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Stories are found through objects and framed reveals, not lookbook grids.",
+        "characteristics": "Object interactions (Viewmaster, phone, book) as indexes into the catalog",
+        "portfolioFit": "One index mark in the hero; depth-reveal on work teasers — never a walkable house",
+        "avoid": false
+      },
+      {
+        "signal": "Maison / atelier luxury through readable chambers",
+        "sourceCategory": "css-design-awards",
+        "sourceUrl": "https://www.cssdesignawards.com/sites/maison-auge/49956/",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Luxury this week is a maison of identity, space, and digital restraint.",
+        "characteristics": "Cool chamber surfaces, typographic rooms, stable lintel navigation",
+        "portfolioFit": "Cool chamber paper, ink, one wine-ink accent; nav stays structurally stable",
+        "avoid": false
+      },
+      {
+        "signal": "Data, analysis, and motion as one language",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/sharplink",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "Reports and institutional products refuse the PDF dump.",
+        "characteristics": "Charts and treasury facts move with the same typographic system as the story",
+        "portfolioFit": "Single causal chapter-rule in the hero; token-driven motion intensity",
+        "avoid": false
+      },
+      {
+        "signal": "90s pastel retro capsules",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/decathlon-yestalgia",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "short-lived",
+        "whyItMatters": "A one-week capsule vibe, not a recurring experience movement.",
+        "characteristics": "Pink field, archive-mix playfulness, illustration-led scroll",
+        "portfolioFit": "Do not set weekly tokens from this palette or motion",
+        "avoid": true
+      }
+    ],
+    "recurringMovements": [
+      "Chaptered editorial as spatial architecture",
+      "Object-led discovery as a readable index",
+      "Maison / atelier luxury through identity, space, and digital restraint",
+      "Data, analysis, and motion as a single visual language",
+      "High-contrast monochrome supporting calm"
+    ],
+    "shortLivedNovelty": [
+      "90s pastel retro capsules (Decathlon Yestalgia)",
+      "Jiggly CTA and ear-popping button hover (Aardvark highlight reels)",
+      "Comic-book full-world brand universes (Santioni Notturno)",
+      "Music-reactive goo / WebGPU blob-to-cube (Run Rob Run)",
+      "Portfolio boot sequences and spinning discs (Goodgrowth)",
+      "Mouse-following RGB square lens as a default cursor",
+      "Full WebGL walkable houses and immersive 3DCG chapter worlds"
+    ]
+  },
+  "visualCultureAnalyst": {
+    "dominantMovement": "Chaptered maison-index — the page as a house of readable chambers",
+    "supportingPatterns": [
+      "Object-as-index interaction",
+      "Editorial charts sharing the type system",
+      "Monochrome supporting lintel after an expressive first chamber"
+    ],
+    "emotionalTone": "composed, literary-confident, cool-chamber",
+    "interactionStyle": "Chapter advance plus framed object reveal; navigation remains a stable lintel",
+    "portfolioRelevance": "Hero may become the first chamber. Supporting sections inherit chapter rhythm without rewriting content or changing IA.",
+    "riskLevel": "medium if WebGL worlds or retro capsules leak into tokens; low if the house metaphor stays typographic",
+    "favorOverNovelty": "Chaptered typographic chambers over walkable 3D houses, goo materials, boot sequences, and pastel capsules"
+  }
+}

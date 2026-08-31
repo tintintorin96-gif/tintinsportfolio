@@ -29,3 +29,9 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W36
+
+- HOBRO DIGITAL (Awwwards SOTD Aug 29): black/white agency rooms — cases, manifest, services. Portfolio-safe supporting calm.
+- Run Rob Run (CSSDA Aug 29) and Codrops Goodgrowth (Aug 27): high craft, high novelty (goo, boot sequences, spinning discs). Study restraint, do not copy the stunt.
+- Merci-Michel MIU MIU and SHIFTBRAIN /zeroz: creative-dev ceiling this week is spatial chapters. For a living portfolio, keep the index and drop the world.

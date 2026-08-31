@@ -29,3 +29,9 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W36
+
+- Maison AUGE (CSSDA WOTD Aug 30): luxury as a maison — identity, packaging, space, digital — one house, several disciplines.
+- MIU MIU A House that we shaped (Awwwards SOTD Aug 25): campaign as a walkable chamber of objects. Extract object-as-index; do not import the house.
+- Cool chamber paper and wine-ink accent this week — not warm cream editorial, not last week’s instrument steel + sapphire.
