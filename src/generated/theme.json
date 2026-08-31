@@ -1,15 +1,15 @@
 {
-  "week": 25,
+  "week": 36,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
-  "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "themeName": "Chaptered Chamber",
+  "heroVariant": "cinematic",
+  "background": "#EEF1F4",
+  "foreground": "#13161B",
+  "accent": "#5C2148",
+  "muted": "#E2E7EC",
+  "border": "#C4CCD4",
+  "radius": "2px",
+  "shadow": "0 16px 48px rgba(19, 22, 27, 0.08)",
   "spacing": {
     "section": "airy",
     "grid": "comfortable",
@@ -18,16 +18,16 @@
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "overscaled cinematic-band display with a hairline chapter rule, comfortable body in supporting chambers"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "chapter-rule extension on entry; crossfade between chambers; depth-reveal on teasers"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "layout": "cinematic-band",
+    "visualEffect": "cool chamber field with a single wine-ink chapter rule across the band",
+    "interaction": "scroll advances the prologue chamber; chapter rule extends on entry"
   },
   "pageTreatment": {
     "cards": "bordered",

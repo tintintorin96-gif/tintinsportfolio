@@ -29,3 +29,10 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W36
+
+- AI in Design Report 2026: the clearest chaptered-reading signal — intro, chapters, editorial charts, case-study menu, footer hover as a single language.
+- Aardvark Book Club: literary brand as digital home; catalog as chapters, not a dump.
+- CSSDA nominees The Thread: A Personal Story and NOT FOUND (Aug 29): personal narrative as chapter, not magazine layout.
+- Storytelling principle: hero is the prologue chamber; supporting sections are quieter acts. Case-study copy stays untouched.
