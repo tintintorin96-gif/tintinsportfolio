@@ -29,3 +29,9 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W37
+
+- Luxury this week is documentary and infrastructural: MECHA’s non-fiction robotics grid; United Carriers’ freight precision; Squarespace Foundations as an identity system.
+- Deprioritize ERA Residence pastel hospitality and Heirest jewellery configurators as luxury models.
+- Klausen (FWA supporting) confirms cinematic automotive showrooms — extract type restraint, not the 3D collection.

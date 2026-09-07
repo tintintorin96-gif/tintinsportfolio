@@ -29,3 +29,8 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W37
+
+- Storytelling moved from last week’s chaptered chambers to a single walk: Razorpay’s store-journey, United Carriers’ industry scroll, Squarespace Foundations’ identity editorial.
+- Supporting calm remains high-contrast monochrome (Paul Kalkbrenner, Squarespace). Hero is the first step; supporting sections stay a quieter grid — not another magazine chapter.

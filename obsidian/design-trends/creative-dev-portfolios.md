@@ -29,3 +29,8 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W37
+
+- **Jesper Landberg** — DOM boxes decide where; one canvas decides what it looks like. Portfolio-safe creative-tech principle: spend the GPU budget only on what HTML cannot do.
+- Paul Kalkbrenner and Squarespace Foundations show that award craft this week can stay two-color, type-led, and readable without a WebGL world.

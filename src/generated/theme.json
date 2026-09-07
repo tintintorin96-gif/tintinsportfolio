@@ -1,37 +1,37 @@
 {
-  "week": 25,
+  "week": 37,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
+  "themeName": "Earned Blueprint",
   "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "background": "#F5F6F3",
+  "foreground": "#121412",
+  "accent": "#0F3D8C",
+  "muted": "#E6E9E3",
+  "border": "#C5CBC2",
+  "radius": "0px",
+  "shadow": "0 10px 32px rgba(18, 20, 18, 0.06)",
   "spacing": {
-    "section": "airy",
+    "section": "balanced",
     "grid": "comfortable",
-    "heroPadding": "generous"
+    "heroPadding": "standard"
   },
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "overscaled split-grid display with a hairline blueprint rule, comfortable body in supporting bands"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "hairline rule alignment on entry; color-shift on teasers; no spring overshoot"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "layout": "split-grid",
+    "visualEffect": "cool zinc drafting field with a single deep-blueprint thesis rule in the split",
+    "interaction": "scroll advances the first step of the walk; hairline rule aligns on entry"
   },
   "pageTreatment": {
     "cards": "bordered",
-    "sections": "muted-bands",
+    "sections": "grid-rhythm",
     "navigation": "minimal-border"
   }
 }
