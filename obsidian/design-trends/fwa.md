@@ -11,3 +11,9 @@ Use for **shipped Favourite Website Awards** experiences.
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W37
+
+FWA September 2026 daily index is not reliably dated. Used as supporting context only.
+
+- **Klausen** (FWA case, submitted Aug 2026) — Swiss automotive house: cinematic visuals, refined type, interactive 3D collection. Supporting luxury-showroom signal. Deprioritize walkable 3D collections for this portfolio.

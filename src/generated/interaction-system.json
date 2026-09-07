@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 37,
   "year": 2026,
   "cursorTreatment": "default",
   "scrollBehavior": "cinematic",
-  "hoverBehavior": "depth-reveal",
+  "hoverBehavior": "color-shift",
   "pageTransition": "none",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
-  "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "storytellingStyle": "linear-reveal",
+  "heroInteraction": "split-grid first step with a single hairline rule alignment on entry; scroll advances the walk only in the hero",
+  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked rule motion, no hover overshoot, no staged walk"
 }

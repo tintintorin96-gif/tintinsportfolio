@@ -11,3 +11,7 @@ Use for **emerging UI patterns and design-system experiments** (not static mocks
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W37
+
+No year-dated Figma Community production pattern outranked shipped award sites this window. Razorpay lists Figma in its Sprint26 stack as a production tool, not as the signal. Weight stays on live URLs.

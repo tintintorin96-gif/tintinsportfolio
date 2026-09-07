@@ -1,0 +1,112 @@
+{
+  "week": 37,
+  "year": 2026,
+  "dateRange": "2026-09-07 — 2026-09-13",
+  "researchWindow": "2026-08-31 — 2026-09-06",
+  "signalScout": {
+    "emergingSignals": [
+      {
+        "signal": "Agentic narrative as a single walk through infrastructure",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/razorpay-sprint26-the-future-of-payments.html",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Product launches refuse the dashboard-hero and the 100-card grid; 100+ updates become one walk.",
+        "characteristics": "Thesis object, store-walk scroll, two-color blueprint, earned triggers",
+        "portfolioFit": "Hero as the first step; one hairline mark — not a 3D shoe",
+        "avoid": false
+      },
+      {
+        "signal": "Two-color blueprint discipline",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/united-carriers",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "A drafting field makes motion causal. Restraint is the condition for earned interaction.",
+        "characteristics": "One or two inks, infrastructure storytelling, hard geometry",
+        "portfolioFit": "Zinc paper, near-black ink, one deep blueprint accent",
+        "avoid": false
+      },
+      {
+        "signal": "DOM-as-architecture, material-as-finish",
+        "sourceCategory": "css-design-awards",
+        "sourceUrl": "https://www.cssdesignawards.com/sites/jesper-landberg/49966/",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "Award portfolios keep real HTML, scroll, and links; the GPU only paints what the DOM decided.",
+        "characteristics": "Shared-id plane re-homing, flip transitions, mirrored platform",
+        "portfolioFit": "CSS split-grid and a hairline rule; no full-canvas hero",
+        "avoid": false
+      },
+      {
+        "signal": "Adaptive quality as experience ethics",
+        "sourceCategory": "creative-technology",
+        "sourceUrl": "https://tympanus.net/codrops/2026/09/03/from-rays-to-meshes-building-vercels-prism-with-vgpu/",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "High-craft heroes degrade on GPU, battery, and frame rate so spectacle is not a tax.",
+        "characteristics": "Mesh instead of rays, baked shadows, high-to-low quality switch",
+        "portfolioFit": "Subtle intensity and instant reduced-motion states as quality tiers",
+        "avoid": false
+      },
+      {
+        "signal": "Identity as a readable high-contrast system",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/squarespace-foundations",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "After louder product walks, brand and musician sites return to two-color readable systems.",
+        "characteristics": "White/black identity editorial, earned hover, gallery as system",
+        "portfolioFit": "Supporting sections as a quieter monochrome grid",
+        "avoid": false
+      },
+      {
+        "signal": "Mediterranean and performer pastels",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/era-residence",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "short-lived",
+        "whyItMatters": "Pastel hospitality and performer homes are award spikes, not a portfolio system.",
+        "characteristics": "Pink/blue boutique fields, immersive performer homes",
+        "portfolioFit": "Do not import",
+        "avoid": true
+      }
+    ],
+    "recurringMovements": [
+      "Two-color blueprint discipline as the field that makes motion meaningful",
+      "Scroll as one physical walk through infrastructure",
+      "DOM-as-architecture, WebGL-as-finish",
+      "Adaptive quality: perception over simulation",
+      "High-contrast monochrome identity as supporting calm"
+    ],
+    "shortLivedNovelty": [
+      "ERA Residence pastel hospitality",
+      "Trevor Noah pastel performer home",
+      "Heirest 100k jewellery configurator",
+      "Datamosh / corrupted-file transitions",
+      "Eiffel Tower catapult playground",
+      "ASCII-print WebGL as a default hero",
+      "100+ Rive triggers copied wholesale"
+    ]
+  },
+  "visualCultureAnalyst": {
+    "dominantMovement": "Earned blueprint — a single walk through infrastructure, two-color linework, type that leads",
+    "supportingPatterns": [
+      "DOM-mirrored material",
+      "Non-fiction industrial grid",
+      "Adaptive perception over simulation",
+      "High-contrast identity as supporting calm"
+    ],
+    "emotionalTone": "precise, documentary-confident, cool-drafting",
+    "interactionStyle": "One earned walk in the hero; color-shift as ink on paper; stable navigation",
+    "portfolioRelevance": "Reinterpret the hero as the first drafting sheet of a walk. Supporting page stays a quieter grid. Content and IA unchanged.",
+    "riskLevel": "medium if 3D objects or Rive density leak out of the hero; low if CSS-only split-grid is kept",
+    "favorOverNovelty": "Recurring blueprint walks and DOM-mirrored craft over pastel homes, configurators, datamosh, and ASCII print"
+  }
+}
