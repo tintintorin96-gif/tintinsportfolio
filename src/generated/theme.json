@@ -1,15 +1,15 @@
 {
-  "week": 25,
+  "week": 38,
   "year": 2026,
-  "themeName": "Semantic Kinetic Hierarchy",
-  "heroVariant": "hierarchy-led",
-  "background": "#FAFAF9",
-  "foreground": "#0C0C0E",
-  "accent": "#D42B1E",
-  "muted": "#F0EFED",
-  "border": "#E2E0DC",
-  "radius": "6px",
-  "shadow": "0 12px 40px rgba(12, 12, 14, 0.07)",
+  "themeName": "Survey Horizon",
+  "heroVariant": "cinematic",
+  "background": "#E4EEF1",
+  "foreground": "#10171B",
+  "accent": "#0A5366",
+  "muted": "#D3E0E4",
+  "border": "#C2D1D6",
+  "radius": "4px",
+  "shadow": "0 14px 36px rgba(16, 23, 27, 0.08)",
   "spacing": {
     "section": "airy",
     "grid": "comfortable",
@@ -18,20 +18,20 @@
   "typography": {
     "headingMood": "bold",
     "bodyMood": "minimal",
-    "scale": "overscaled hero display with scroll-responsive weight, comfortable body"
+    "scale": "overscaled asymmetric display as a bearing above a horizon rule, comfortable body in supporting bands"
   },
   "motion": {
     "intensity": "subtle",
-    "style": "spring easing on accent reveal and CTA hover; scroll-linked hero weight shift"
+    "style": "horizon-rule extension on entry; depth-reveal on teasers; no cockpit flicker or spring overshoot"
   },
   "hero": {
-    "layout": "stacked-type",
-    "visualEffect": "asymmetric stack with scroll-linked typographic weight",
-    "interaction": "causal accent underline extension on entry; spring hover on primary CTAs"
+    "layout": "asymmetric",
+    "visualEffect": "glacier vapor field with overscaled type offset as a heading indicator above a single horizon rule",
+    "interaction": "scroll advances the survey; pointer shifts bearing slightly; no hold-to-proceed"
   },
   "pageTreatment": {
-    "cards": "bordered",
+    "cards": "elevated",
     "sections": "muted-bands",
-    "navigation": "minimal-border"
+    "navigation": "stable-flat"
   }
 }

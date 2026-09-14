@@ -29,3 +29,9 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W38
+
+- [Cerebrium](https://www.awwwards.com/sites/cerebrium) (Awwwards SOTD Sep 10) — serverless AI infra made tangible; keep simple dropdown navigation; reject globe / force-field spectacle.
+- [Why Zero](https://www.awwwards.com/sites/why-zero) (Awwwards SOTD Sep 7) — AI-native education story. Extract narrative scroll and text sprites; reject hold-to-proceed game and shader toys.
+- [USAvionix](https://www.awwwards.com/sites/usavionix) (Awwwards SOTD Sep 9) — “agent in the air.” Extract mission chapters; reject cockpit HUD as a portfolio default.

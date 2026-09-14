@@ -29,3 +29,7 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W38
+
+No in-window creative-dev personal SOTD inside Sep 7–13 (Gionatan Nese ’26 was Sep 5; Léo Parpeix is Sep 14). Carry forward: DOM-first pages, GPU as finish. Yestalgia Codrops (Sep 12) is the craft note — markup-declared scroll, not a portfolio clone.

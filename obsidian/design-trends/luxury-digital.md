@@ -29,3 +29,7 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W38
+
+[White Desert](https://www.awwwards.com/sites/white-desert) (Awwwards SOTD Sep 11) is the luxury primary: ice paper, night ink, camps as waypoints, photography as landscape. Extract surveyed calm — not a booking funnel or full-bleed travel video as the default hero. Reject Tuscan olive warmth (Sep 13) as luxury-editorial drift.

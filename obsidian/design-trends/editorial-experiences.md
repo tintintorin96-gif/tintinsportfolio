@@ -29,3 +29,7 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W38
+
+White Desert (Sep 11) and Seasats intro story (Sep 8) stage landscape / vessel as chapters. Yestalgia (Codrops Sep 12) uses graphic interludes between product beats — extract rhythm, not 90s nostalgia. Tuscan Journey (Sep 13) is a WebGL story to deprioritize.

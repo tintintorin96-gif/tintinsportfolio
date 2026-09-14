@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 38,
   "year": 2026,
-  "cursorTreatment": "default",
+  "cursorTreatment": "highlight",
   "scrollBehavior": "cinematic",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
   "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "heroInteraction": "asymmetric bearing type with horizon-rule extension on entry; pointer shifts offset slightly; scroll advances the survey only in the hero",
+  "reducedMotionFallback": "static bearing hierarchy and horizon rule; no parallax, pointer shift, or crossfade staging; last-frame composition only"
 }
