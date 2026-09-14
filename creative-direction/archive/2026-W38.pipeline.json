@@ -1,0 +1,102 @@
+{
+  "week": 38,
+  "year": 2026,
+  "dateRange": "2026-09-14 — 2026-09-20",
+  "researchWindow": "2026-09-07 — 2026-09-13",
+  "signalScout": {
+    "emergingSignals": [
+      {
+        "signal": "Expedition as a surveyed luxury course",
+        "sourceCategory": "luxury-digital",
+        "sourceUrl": "https://www.awwwards.com/sites/white-desert",
+        "signalType": "storytelling-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Hospitality this week refuses the brochure grid and stages landscape as itineraries you survey after the hero.",
+        "characteristics": "Ice paper, night ink, trip/camp chapters, photography as landscape — not a booking-funnel clone.",
+        "portfolioFit": "Hero as surveyed horizon; ice-vapor field and one course-line. No travel-video takeover.",
+        "avoid": false
+      },
+      {
+        "signal": "Vessel and mission objects as chapters",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/seasats",
+        "signalType": "interaction-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Marine and aerial robotics refuse the spec-sheet hero and page vessels or missions as sequential instruments.",
+        "characteristics": "Intro story then vessel/mission chapters. Extract sequence; reject 3D globe, rust terracotta, and cockpit HUD flicker.",
+        "portfolioFit": "Supporting sections as quieter waypoints. Objects stay bearings, not hulls.",
+        "avoid": false
+      },
+      {
+        "signal": "AI infrastructure made tangible without replacing the page",
+        "sourceCategory": "ai-native-products",
+        "sourceUrl": "https://www.awwwards.com/sites/cerebrium",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "The useful pattern is modular precision and simple navigation — not another interactive globe or education game.",
+        "characteristics": "Tangible compute metaphors, simple dropdown nav. Deprioritize WebGL globe/force-field and Why Zero hold-to-proceed.",
+        "portfolioFit": "Type and a horizon rule as the tangible instrument. No WebGL education game.",
+        "avoid": false
+      },
+      {
+        "signal": "Motion declared in markup, last-frame reduced-motion",
+        "sourceCategory": "motion-design",
+        "sourceUrl": "https://tympanus.net/codrops/2026/09/12/yestalgia-bringing-decathlons-90s-spirit-to-life-through-a-playful-digital-experience/",
+        "signalType": "motion-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "Art-directed launches encode scroll timelines in markup and treat reduced-motion as instant last-frame composition.",
+        "characteristics": "Data-attribute timelines, fake-3D type via delayed duplicate, intersection-gated loops. Extract primitives; reject Walkman nav.",
+        "portfolioFit": "One CSS scroll-driven horizon-rule extension. Instant bearing under prefers-reduced-motion.",
+        "avoid": false
+      },
+      {
+        "signal": "Two-color ice / instrument fields",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/white-desert",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "After last week's zinc drafting sheet, the field is cooler and more atmospheric while staying two-color.",
+        "characteristics": "Glacier paper, polar ink, one cyan course mark. Reject cream, rust terracotta, neon product green, blueprint navy.",
+        "portfolioFit": "Glacier vapor + polar ink + deep horizon cyan.",
+        "avoid": false
+      }
+    ],
+    "recurringMovements": [
+      "Expedition and mission stories told as chapters",
+      "Instrument objects as narrative units — extract chaptering, not the 3D hull",
+      "DOM-first pages with GPU as finish",
+      "Motion declared in markup with last-frame reduced-motion",
+      "Two-color restraint as the field that makes a horizon line readable"
+    ],
+    "shortLivedNovelty": [
+      "Hold-to-proceed, page-unlock games, shader toys, origami waitlists (Why Zero, Sep 7)",
+      "3D globes and rust terracotta vessel heroes (Seasats, Sep 8)",
+      "Thermal / lidar cockpit boot flicker (USAvionix, Sep 9)",
+      "WebGL globe + force-field and peacock/berry chroma (Cerebrium, Sep 10)",
+      "Indigo / yellow idle-3D portfolio spectacle (Warm & Fuzzy, Sep 12)",
+      "Olive-warm WebGL travel and sound-required journeys (Tuscan Journey, Sep 13)",
+      "Walkman cassette navigation and 90s nostalgia as weekly mood (Yestalgia Codrops, Sep 12)",
+      "Léo Parpeix Portfolio 2026 (Awwwards SOTD Sep 14 — run date, outside window)"
+    ]
+  },
+  "visualCultureAnalyst": {
+    "dominantMovement": "Surveyed horizon — robotics, luxury expedition, and AI infrastructure staged as a course to survey rather than a drafting-sheet walk or WebGL cockpit",
+    "supportingPatterns": [
+      "Chaptered itineraries and mission beats",
+      "Instrument objects as sequential waypoints",
+      "DOM-first tangibility for AI and compute",
+      "Markup-declared motion with last-frame reduced-motion",
+      "Two-color ice fields after zinc drafting"
+    ],
+    "emotionalTone": "surveyed, expedition-calm, instrument-clear",
+    "interactionStyle": "One cinematic survey in the hero; depth-reveal as ice layers; stable navigation; chaptered waypoints below",
+    "portfolioRelevance": "Hero as experimental surveyed horizon; supporting page as quieter itinerary. Preserves content, navigation, and AA contrast.",
+    "riskLevel": "medium — award sites this week lean WebGL globe / cockpit / game; portfolio must extract chaptering and two-color ice only",
+    "favorOverNovelty": "Horizon rule and bearing type over globes, hold-to-proceed, cassette nav, and last week's split-grid blueprint"
+  }
+}
