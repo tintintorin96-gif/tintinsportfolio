@@ -29,3 +29,7 @@ Apply storytelling patterns to the hero and supporting sections only. Case study
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W39
+
+- KNKO and House of Yellow (Codrops Sep 16–18) — same archive, different modes of looking. Storytelling as choice of view, not a rewritten dataset. Portfolio: hero as selection prologue, supporting page as quieter list-mode.

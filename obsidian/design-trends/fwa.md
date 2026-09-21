@@ -11,3 +11,9 @@ Use for **shipped Favourite Website Awards** experiences.
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W39
+
+Research window 2026-09-14 — 2026-09-20. FWA daily index is not reliably dated — supporting only.
+
+- Codrops [KNKO](https://tympanus.net/codrops/2026/09/18/kononenko-architectural-bureau/) (Sep 18) cites The FWA — FWA of the Day for Kononenko Architectural Bureau without a daily stamp. Use as supporting craft: choice of viewing mode, outline hover, interruptible motion. Do not treat undated FWA archive rows as that day's winner.

@@ -29,3 +29,9 @@ Favor portfolios that balance ambition with clarity — suitable for a content-s
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W39
+
+- Léo Parpeix Portfolio 2026 (Awwwards SOTD Sep 14) — extract typography + transitions; deprioritize full WebGL 3D.
+- Boc.Studio (Sep 19) — continuous-surface hover handoffs; deprioritize orange chroma.
+- Pensatori Irrazionali (Sep 20) — modular identity sheet; deprioritize universe loader.

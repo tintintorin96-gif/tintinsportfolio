@@ -29,3 +29,8 @@ Prefer shipped product patterns over concept mockups. Extract principles, not UI
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W39
+
+- [L.I.S.A.](https://www.awwwards.com/sites/l-i-s-a) (Awwwards SOTD Sep 16) — directed conversational contact replacing a form. Extract process-state qualification; do not clone a talking widget onto a portfolio.
+- Linear [agent interaction](https://linear.app/developers/agent-interaction) — session states and typed activities (thought / action / elicitation / response); first thought within 10 seconds. Portable idea: loading as thought, complete as last frame.

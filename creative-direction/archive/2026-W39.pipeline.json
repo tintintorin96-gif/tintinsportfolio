@@ -1,0 +1,103 @@
+{
+  "week": 39,
+  "year": 2026,
+  "dateRange": "2026-09-21 — 2026-09-27",
+  "researchWindow": "2026-09-14 — 2026-09-20",
+  "signalScout": {
+    "emergingSignals": [
+      {
+        "signal": "Choice as interface architecture",
+        "sourceCategory": "editorial-experiences",
+        "sourceUrl": "https://tympanus.net/codrops/2026/09/18/kononenko-architectural-bureau/",
+        "signalType": "interaction-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Architecture and motion-studio sites refuse a single fixed index and let visitors change how they look at the same body of work.",
+        "characteristics": "Grid / list / active modes of the same collection. Keep one mode simple so the others can be expressive. Extract choice, not the WebGL morph.",
+        "portfolioFit": "Hero as a selection prologue; supporting page as quieter list-mode. No three-mode gallery clone.",
+        "avoid": false
+      },
+      {
+        "signal": "Hover that recedes neighbors to outline",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://tympanus.net/codrops/2026/09/18/kononenko-architectural-bureau/",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "The active piece takes visual priority while surrounding work reduces to architectural outline and never fully disappears.",
+        "characteristics": "Hover as shared grammar across modes. Drawings as interface, not wallpaper. Extract outline recession; reject sketch-shader spectacle.",
+        "portfolioFit": "Typographic gravity in the hero — one line holds weight, supporting lines drop to outline stroke.",
+        "avoid": false
+      },
+      {
+        "signal": "Motion as a second design layer, interruptible",
+        "sourceCategory": "motion-design",
+        "sourceUrl": "https://tympanus.net/codrops/2026/09/16/house-of-yellow/",
+        "signalType": "motion-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "Motion transforms a restrained composition, stays interruptible, and remains quiet where the page should stay simple.",
+        "characteristics": "Scroll as a timeline the visitor still controls. Switch mid-morph. Extract second-layer motion; reject logo-as-spectacle.",
+        "portfolioFit": "One interruptible weight-to-outline thread in the hero. Instant last-frame under prefers-reduced-motion.",
+        "avoid": false
+      },
+      {
+        "signal": "Directed first-contact as process state",
+        "sourceCategory": "ai-native-products",
+        "sourceUrl": "https://www.awwwards.com/sites/l-i-s-a",
+        "signalType": "creative-technology",
+        "shippedVsConcept": "shipped",
+        "recurrence": "emerging",
+        "whyItMatters": "AI-native contact is graduating from chat overlays to a role: qualify fit and show thinking as semantic state.",
+        "characteristics": "Conversational qualification, typed session activities (thought / action / response). Extract process-state; reject a talking widget.",
+        "portfolioFit": "Process-state language for motion (loading as thought, complete as last frame). No chat overlay.",
+        "avoid": false
+      },
+      {
+        "signal": "Two-color kiln / outline fields",
+        "sourceCategory": "awwwards",
+        "sourceUrl": "https://www.awwwards.com/sites/aspen-search",
+        "signalType": "visual-system",
+        "shippedVsConcept": "shipped",
+        "recurrence": "recurring",
+        "whyItMatters": "After last week's glacier vapor, the field is greener, flatter, and more like drawing paper while staying two-color.",
+        "characteristics": "Kiln ash, kiln ink, one structural mark. Reject cream, orange chroma, glacier/horizon cyan, blueprint navy.",
+        "portfolioFit": "Kiln-ash plaster + kiln ink + deep pine.",
+        "avoid": false
+      }
+    ],
+    "recurringMovements": [
+      "Same content, multiple viewing modes — choice as architecture",
+      "Hover as priority: active object holds gravity, neighbors remain as quiet structure",
+      "Motion as a second design layer on a restrained visual system",
+      "Scroll as a predictable timeline the visitor still controls",
+      "Two-color restraint as the field that makes an outline readable"
+    ],
+    "shortLivedNovelty": [
+      "Full WebGL 3D portfolio environments (Léo Parpeix, Awwwards SOTD Sep 14)",
+      "Three-mode WebGL plane morphs and infinite draggable galleries (KNKO Codrops, Sep 18)",
+      "Conversational virtual-assistant contact as a portfolio feature (L.I.S.A., Sep 16)",
+      "Orange chroma and 404-as-spectacle (Boc.Studio Sep 19, LxL Creative Sep 17)",
+      "Cream editorial palettes and 3D product inspect (Noho, Sep 18)",
+      "WebGL universe loaders (Pensatori Irrazionali, Sep 20)",
+      "Confetti mouse toys (Aspen Search, Sep 15)",
+      "Logo-as-full-screen spectacle (House of Yellow Codrops, Sep 16)",
+      "Gil Huybrecht (Awwwards SOTD Sep 21 — run date, outside window)"
+    ]
+  },
+  "visualCultureAnalyst": {
+    "dominantMovement": "Outline gravity — work staged as a selection system where one piece holds weight and neighbors recede to architectural outline, rather than a surveyed horizon or WebGL cockpit",
+    "supportingPatterns": [
+      "Choice of viewing mode over a new dataset",
+      "Outline recession as hover grammar",
+      "Motion as a second, interruptible design layer",
+      "Directed first-contact as process state",
+      "Two-color kiln fields after glacier vapor"
+    ],
+    "emotionalTone": "precise, interruptible, architecturally calm",
+    "interactionStyle": "One selection in the hero; depth-reveal as outline recession; stable navigation; quieter list-mode below",
+    "portfolioRelevance": "Hero as experimental gravity well; supporting page as quieter list-mode index. Preserves content, navigation, and AA contrast.",
+    "riskLevel": "medium — award sites this week lean WebGL morph / 3D portfolio / chat assistant; portfolio must extract outline gravity and two-color kiln only",
+    "favorOverNovelty": "Stacked-type outline gravity over WebGL galleries, chat widgets, orange chroma, and last week's cinematic glacier horizon"
+  }
+}
