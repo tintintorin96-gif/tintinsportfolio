@@ -1,13 +1,13 @@
 {
-  "week": 25,
+  "week": 39,
   "year": 2026,
-  "cursorTreatment": "default",
-  "scrollBehavior": "cinematic",
+  "cursorTreatment": "highlight",
+  "scrollBehavior": "standard",
   "hoverBehavior": "depth-reveal",
-  "pageTransition": "none",
+  "pageTransition": "crossfade",
   "motionIntensity": "subtle",
   "navigationBehavior": "stable",
-  "storytellingStyle": "chapter-scroll",
-  "heroInteraction": "scroll-linked typographic weight shift with causal accent rule extension on entry",
-  "reducedMotionFallback": "instant hierarchy and accent states; no scroll-linked animation or spring overshoot"
+  "storytellingStyle": "panel-sequence",
+  "heroInteraction": "stacked-type gravity well: hover or scroll concentrates weight on the primary line while supporting lines recede to outline; pine accent marks the active line only",
+  "reducedMotionFallback": "static stacked hierarchy and outline states; no weight morph, pointer shift, or crossfade staging; last-frame composition only"
 }

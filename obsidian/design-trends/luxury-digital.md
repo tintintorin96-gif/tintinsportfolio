@@ -29,3 +29,8 @@ Extract mood and hierarchy principles for a hero-led system. Never import warm c
 ## Latest weekly research
 
 _Updated by the Experience Signal Scout each week._
+
+## Latest weekly research — 2026-W39
+
+- KNKO (Codrops Sep 18) — luxury as precision: oversized type, generous negative space, architectural outlines. Extract restraint; reject cream hospitality palettes (Noho Sep 18).
+- Aspen Search (Awwwards SOTD Sep 15) — two-color type discipline as premium corporate craft.
